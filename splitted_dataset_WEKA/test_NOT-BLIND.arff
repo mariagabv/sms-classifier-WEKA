@@ -1,0 +1,1122 @@
+@relation corpus_sms-weka.filters.supervised.instance.Resample-B0.0-S1-Z100.0-no-replacement-weka.filters.supervised.instance.Resample-B0.0-S1-Z80.0-no-replacement-V
+
+@attribute text string
+@attribute classID {ham,spam}
+
+@data
+'Wait 2 min..stand at bus stop',ham
+'You getting back any time soon?',ham
+'U dun say so early hor... U c already then say...',ham
+'Jay wants to work out first, hows 4 sound?',ham
+'Nope. Meanwhile she talk say make i greet you.',ham
+'I have gone into get info bt dont know what to do',ham
+'Well obviously not because all the people in my cool college life went home ;_;',ham
+'Ive been searching for the right words to thank you for this breather. I promise i wont take your help for granted and will fulfil my promise. You have been wonderful and a blessing at all times.',ham
+'Babe, I need your advice',ham
+'No drama Pls.i have had enough from you and family while i am struggling in the hot sun in a strange place.No reason why there should be an ego of not going IF NOT INVITED when actually its necessity to go.wait for very serious reppurcussions.',ham
+'Ofcourse I also upload some songs',ham
+'Tell me again what your address is',ham
+'Fyi Im taking a quick shower, be at epsilon in like  &lt;#&gt;  min',ham
+'I‘m going to try for 2 months ha ha only joking',ham
+'Oh you got many responsibilities.',ham
+'Aft i finish my lunch then i go str down lor. Ard 3 smth lor. U finish ur lunch already?',ham
+'Thought praps you meant another one. Goodo! Ill look tomorrow',ham
+'Cool, Ill text you when Im on the way',ham
+'It,,s a taxt massage....tie-pos argh ok! Lool!',ham
+'Midnight at the earliest',ham
+'Thank you princess! I want to see your nice juicy booty...',ham
+'So that takes away some money worries',ham
+'have you ever had one foot before?',ham
+'So u wan 2 come for our dinner tonight a not?',ham
+'Sir Goodmorning, Once free call me.',ham
+'U sleeping now.. Or you going to take? Haha.. I got spys wat.. Me online checking n replying mails lor..',ham
+'U definitely need a module from e humanities dis sem izzit? U wan 2 take other modules 1st?',ham
+'Oops, Ill let you know when my roommates done',ham
+'I see the letter B on my car',ham
+'My friend just got here and says hes upping his order by a few grams (hes got $ &lt;#&gt; ), when can you get here?',ham
+'Not directly behind... Abt 4 rows behind ü...',ham
+'Shes fine. Sends her greetings',ham
+'I know she called me',ham
+'WHO ARE YOU SEEING?',ham
+'Yes.im in office da:)',ham
+'Send ur birthdate with month and year, I will tel u ur LIFE PARTNERS name. and the method of calculation. Reply must.',ham
+'If youre still up, maybe leave the credit card so I can get gas when I get back like he told me to',ham
+'Thinkin about someone is all good. No drugs for that',ham
+'Under the sea, there lays a rock. In the rock, there is an envelope. In the envelope, there is a paper. On the paper, there are 3 words... ',ham
+'Hi hope u get this txt~journey hasnt been gd,now about 50 mins late I think.',ham
+'Honestly ive just made a lovely cup of tea and promptly dropped my keys in it and then burnt my fingers getting them out!',ham
+'ARE YOU IN TOWN? THIS IS V. IMPORTANT',ham
+'My house here e sky quite dark liao... If raining then got excuse not 2 run already rite... Hee...',ham
+'Ok. Me watching tv too.',ham
+'Its worse if if uses half way then stops. Its better for him to complete it.',ham
+'Sorry, Ill call later in meeting.',ham
+'Is there coming friday is leave for pongal?do you get any news from your work place.',ham
+'Yes there were many sweets',ham
+'Your gonna have to pick up a $1 burger for yourself on your way home. I cant even move. Pain is killing me.',ham
+'Im fine. Hope you are also',ham
+'Ard 4 lor...',ham
+'Easy ah?sen got selected means its good..',ham
+'Boy; I love u Grl: Hogolo Boy: gold chain kodstini Grl: Agalla Boy: necklace madstini Grl: agalla Boy: Hogli 1 mutai eerulli kodthini! Grl: I love U kano;-)',ham
+'I not free today i haf 2 pick my parents up tonite...',ham
+'Good. do you think you could send me some pix? I would love to see your top and bottom...',ham
+'Okay... We wait ah',ham
+'U come n search tat vid..not finishd..',ham
+'Depends on individual lor e hair dresser say pretty but my parents say look gong. U kaypoh.. I also dunno wat she collecting.',ham
+'Lol well dont do it without me. We could have a big sale together.',ham
+'How dare you change my ring',ham
+'Amazing : If you rearrange these letters it gives the same meaning... Dormitory = Dirty room Astronomer = Moon starer The eyes = They see Election results = Lies lets recount Mother-in-law = Woman Hitler Eleven plus two =Twelve plus one Its Amazing... !:-)',ham
+'\"Hello-/@drivby-:0quit edrunk sorry iff pthis makes no senrd-dnot no how ^ dancce 2 drum n basq!ihave fun 2nhite x ros xxxxxxx\"',ham
+'No..its ful of song lyrics..',ham
+'Right on brah, see you later',ham
+'Lemme know when youre here',ham
+'Yeah I can still give you a ride',ham
+'Nope im not drivin... I neva develop da photos lei...',ham
+'Do you know why god created gap between your fingers..? So that, One who is made for you comes &amp; fills those gaps by holding your hand with LOVE..!',ham
+'You will be in the place of that man',ham
+'I am real, baby! I want to bring out your inner tigress...',ham
+'I call you later, dont have network. If urgnt, sms me.',ham
+'Hiya, had a good day? Have you spoken to since the weekend?',ham
+'\"Hey! do u fancy meetin me at 4 at cha  hav a lil beverage on me. if not txt or ring me and we can meet up l8r. quite tired got in at 3 v.pist ;) love Pete x x x\"',ham
+'Im really not up to it still tonight babe',ham
+'Ela kano.,il download, come wen ur free..',ham
+'Jus finish my lunch on my way home lor... I tot u dun wan 2 stay in sch today...',ham
+'Then u going ikea str aft dat?',ham
+'Smile in Pleasure Smile in Pain Smile when trouble pours like Rain Smile when sum1 Hurts U Smile becoz SOMEONE still Loves to see u Smiling!!',ham
+'Can i meet ü at 5.. As 4 where depends on where ü wan 2 in lor..',ham
+'I wnt to buy a BMW car urgently..its vry urgent.but hv a shortage of  &lt;#&gt; Lacs.there is no source to arng dis amt. &lt;#&gt; lacs..thats my prob',ham
+'Im in a meeting, call me later at',ham
+'K Im ready,  &lt;#&gt; ?',ham
+'Oic... Then better quickly go bathe n settle down...',ham
+'Dad wanted to talk about the apartment so I got a late start, omw now',ham
+'Ü mean its confirmed... I tot they juz say oni... Ok then...',ham
+'Ill be there on  &lt;#&gt;  ok.',ham
+'4 tacos + 1 rajas burrito, right?',ham
+'Gam gone after outstanding innings.',ham
+'Check audreys status right now',ham
+'Lol I was gonna last month. I cashed some in but I left &lt;#&gt; just in case. I was collecting more during the week cause they announced it on the blog.',ham
+'I know Im lacking on most of this particular dramastorms details but for the most part Im not worried about that',ham
+'Was the actual exam harder than NBME',ham
+'Cramps stopped. Going back to sleep',ham
+'She is our sister.. She belongs 2 our family.. She is d hope of tomorrow.. Pray 4 her,who was fated 4 d Shoranur train incident. Lets hold our hands together &amp; fuelled by love &amp; concern prior 2 her grief &amp; pain. Pls join in dis chain &amp; pass it. STOP VIOLENCE AGAINST WOMEN.',ham
+'No, I was trying it all weekend ;V',ham
+'Wanna do some art?! :D',ham
+'We are supposed to meet to discuss abt our trip... Thought xuhui told you? In the afternoon. Thought we can go for lesson after that',ham
+'Wa, ur openin sentence very formal... Anyway, im fine too, juz tt im eatin too much n puttin on weight...Haha... So anythin special happened?',ham
+'Thanks chikku..:-) gud nyt:-*',ham
+'No probs hon! How u doinat the mo?',ham
+'So üll be submitting da project tmr rite?',ham
+'Fighting with the world is easy, u either win or lose bt fightng with some1 who is close to u is dificult if u lose - u lose if u win - u still lose.',ham
+'Or maybe my fat fingers just press all these buttons and it doesnt know what to do.',ham
+'I like to think theres always the possibility of being in a pub later.',ham
+'I reach home safe n sound liao...',ham
+'I dont know what to do to come out of this so only am ask questions like this dont mistake me.',ham
+'Am only searching for good dual sim mobile pa.',ham
+'Get me out of this dump heap. My mom decided to come to lowes. BORING.',ham
+'U sick still can go shopping?',ham
+'Ball is moving a lot.will spin in last :)so very difficult to bat:)',ham
+'Dear, will call Tmorrow.pls accomodate.',ham
+'Plz note: if anyone calling from a mobile Co. &amp; asks u to type # &lt;#&gt;  or # &lt;#&gt; . Do not do so. Disconnect the call,coz it iz an attempt of terrorist to make use of the sim card no. Itz confirmd by nokia n motorola n has been verified by CNN IBN.',ham
+'Y she dun believe leh? I tot i told her its true already. I thk she muz c us tog then she believe.',ham
+'He is there. You call and meet him',ham
+'No sir. Thats why i had an 8-hr trip on the bus last week. Have another audition next wednesday but i think i might drive this time.',ham
+'Can you do online transaction?',ham
+'K, text me when youre on the way',ham
+'Prabha..im soryda..realy..frm heart im sory',ham
+'I have no idea where you are',ham
+'Babe! How goes that day ? What are you up to ? I miss you already, my Love ... * loving kiss* ... I hope everything goes well.',ham
+'Only if you promise your getting out as SOON as you can. And youll text me in the morning to let me know you made it in ok.',ham
+'Whats the staff name who is taking class for us?',ham
+'Take care and sleep well.you need to learn to change in life.you only need to get CONVINCED on that.i will wait but no more conversations between us.GET CONVINCED by that time.Your family is over for you in many senses.respect them but not overemphasise.or u have no role in my life.',ham
+'Happy New Year Princess!',ham
+'I just lov this line: \"Hurt me with the truth, I dont mind,i wil tolerat.bcs ur my someone..... But, Never comfort me with a lie\" gud ni8 and sweet dreams',ham
+'\"HEY DAS COOL... IKNOW ALL 2 WELLDA PERIL OF STUDENTFINANCIAL CRISIS!SPK 2 U L8R.\"',ham
+'Yup i thk cine is better cos no need 2 go down 2 plaza mah.',ham
+'Hello. Sort of out in town already. That . So dont rush home, I am eating nachos. Will let you know eta.',ham
+'awesome, how do I deal with the gate? Charles told me last night but, uh, yeah',ham
+'Awww dat is sweet! We can think of something to do he he! Have a nice time tonight ill probably txt u later cos im lonely :( xxx.',ham
+'K. I will sent it again',ham
+'I dont have any of your file in my bag..i was in work when you called me.i ll tell you if i find anything in my room.',ham
+'Ok lor...',ham
+'If I was I wasnt paying attention',ham
+'Aiyo... Her lesson so early... Im still sleepin, haha... Okie, u go home liao den confirm w me lor...',ham
+'Then mums repent how?',ham
+'I love your ass! Do you enjoy doggy style? :)',ham
+'Good! No, don‘t need any receipts—well done! (…) Yes, please tell . What‘s her number, i could ring her',ham
+'Not course. Only maths one day one chapter with in one month we can finish.',ham
+'I think you should go the honesty road. Call the bank tomorrow. Its the tough decisions that make us great people.',ham
+'K:)all the best:)congrats...',ham
+'Just sleeping..and surfing',ham
+'So u workin overtime nigpun?',ham
+'Shall i ask one thing if you dont mistake me.',ham
+'&lt;#&gt;  is fast approaching. So, Wish u a very Happy New Year Happy Sankranti Happy republic day Happy Valentines Day Happy Shivratri Happy Ugadi Happy Fools day Happy May Day Happy Independence Day, Happy Friendship,Mother,Father,Teachers,Childrens Day, &amp; HAPPY BIRTHDAY 4 U. Happy Ganesh festival Happy Dasara Happy Diwali Happy Christmas  &lt;#&gt;  Good Mornings Afternoons, Evenings Nights. RememberI AM the first to WISHING U ALL THESE...yours Raj',ham
+'Let me know when youve got the money so carlos can make the call',ham
+'Did you catch the bus ? Are you frying an egg ? Did you make a tea? Are you eating your moms left over dinner ? Do you feel my Love ?',ham
+'Nt only for driving even for many reasons she is called BBD..thts it chikku, then hw abt dvg cold..heard tht vinobanagar violence hw is the condition..and hw ru ? Any problem?',ham
+'Which is weird because I know I had it at one point',ham
+'O ic lol. Should play 9 doors sometime yo',ham
+'... Are you in the pub?',ham
+'Hi! This is Roger from CL. How are you?',ham
+'Then ü ask dad to pick ü up lar... Ü wan 2 stay until 6 meh...',ham
+'Wot u up 2? Thout u were gonna call me!! Txt bak luv K',ham
+'Going on nothing great.bye',ham
+'Storming msg: Wen u lift d phne, u say \"HELLO\" Do u knw wt is d real meaning of HELLO?? . . . Its d name of a girl..! . . . Yes.. And u knw who is dat girl?? \"Margaret Hello\" She is d girlfrnd f Grahmbell who invnted telphone... . . . . Moral:One can 4get d name of a person, bt not his girlfrnd... G o o d n i g h t . . .@',ham
+'Get ready to put on your excellent sub face :)',ham
+'Sorry, I cant help you on this.',ham
+'You are right. Meanwhile hows project twins comin up',ham
+'Hmm... Dunno leh, mayb a bag 4 goigng out dat is not too small. Or jus anything except perfume, smth dat i can keep.',ham
+'Dai i downloaded but there is only exe file which i can only run that exe after installing.',ham
+'Ok... Thanx... Gd nite 2 ü too...',ham
+'How are you doing? Hope youve settled in for the new school year. Just wishin you a gr8 day',ham
+'K ill drink.pa then what doing. I need srs model pls send it to my mail id pa.',ham
+'Did u got that persons story',ham
+'Ard 530 lor. I ok then message ü lor.',ham
+'Hi its Kate how is your evening? I hope i can see you tomorrow for a bit but i have to bloody babyjontet! Txt back if u can. :) xxx',ham
+'Found it, ENC  &lt;#&gt; , where you at?',ham
+'Buzz! Hey, my Love ! I think of you and hope your day goes well. Did you sleep in ? I miss you babe. I long for the moment we are together again*loving smile*',ham
+'I just saw ron burgundy captaining a party boat so yeah',ham
+'Hey loverboy! I love you !! I had to tell ... I look at your picture and ache to feel you between my legs ... Fuck I want you ... I need you ... I crave you .',ham
+'Teach me apps da. When you come to college.',ham
+'Nt joking seriously i told',ham
+'Ü say until like dat i dun buy ericsson oso cannot oredi lar...',ham
+'Al he does is moan at me if n e thin goes wrong its my fault&al de arguments r my fault&fed up of him of himso y bother? Hav 2go, thanx.xx',ham
+'Aight yo, dats straight dogg',ham
+'No need to buy lunch for me.. I eat maggi mee..',ham
+'Audrie lousy autocorrect',ham
+'Im gonna say no. Sorry. I would but as normal am starting to panic about time. Sorry again! Are you seeing on Tuesday?',ham
+'Ya, told..she was asking wats matter?',ham
+'I said its okay. Sorry',ham
+'They have a thread on the wishlist section of the forums where ppl post nitro requests. Start from the last page and collect from the bottom up.',ham
+'I don,t think so. You dont need to be going out that late on a school night. ESPECIALLY when the one class you have is the one you missed last wednesday and probably failed a test in on friday',ham
+'sir, you will receive the account no another 1hr time. Sorry for the delay.',ham
+'I dont know ask to my brother. Nothing problem some thing that. Just i told .',ham
+'Please da call me any mistake from my side sorry da. Pls da goto doctor.',ham
+'Hows my loverboy doing ? What does he do that keeps him from coming to his Queen, hmmm ? Doesnt he ache to speak to me ? Miss me desparately ?',ham
+'Nothing spl..wat abt u and whr ru?',ham
+'Havent stuck at orchard in my dads car. Going 4 dinner now. U leh? So r they free tonight?',ham
+'Was gr8 to see that message. So when r u leaving? Congrats dear. What school and wat r ur plans.',ham
+'Im not coming home 4 dinner.',ham
+'Hey ! I want you ! I crave you ! I miss you ! I need you ! I love you, Ahmad Saeed al Hallaq ...',ham
+'If u dun drive then how i go 2 sch.',ham
+'Dai what this da.. Can i send my resume to this id.',ham
+'Life is more strict than teacher... Bcoz Teacher teaches lesson &amp; then conducts exam, But Life first conducts Exam &amp; then teaches Lessons. Happy morning. . .',ham
+'No go. No openings for that room til after thanksgiving without an upcharge.',ham
+'Would me smoking you out help us work through this difficult time',ham
+'Can you talk with me..',ham
+'Any way where are you and what doing.',ham
+'Yes:)here tv is always available in work place..',ham
+'I have printed it oh. So  &lt;#&gt;  come upstairs',ham
+'Or ill be a little closer like at the bus stop on the same street',ham
+'Where are you?when wil you reach here?',ham
+'New Theory: Argument wins d SITUATION, but loses the PERSON. So dont argue with ur friends just.. . . . kick them &amp; say, Im always correct.!',ham
+'Idea will soon get converted to live:)',ham
+'PLEASSSSSSSEEEEEE TEL ME V AVENT DONE SPORTSx',ham
+'You didnt have to tell me that...now im thinking. Plus hes going to stop all your runs',ham
+'Yes, princess. Are you going to make me moan?',ham
+'U dont remember that old commercial?',ham
+'Why did I wake up on my own &gt;:(',ham
+'Then ur sis how?',ham
+'Kallis wont bat in 2nd innings.',ham
+'Ok both our days. So what are you making for dinner tonite? Am I invited?',ham
+'I went to project centre',ham
+'Macha dont feel upset.i can assume your mindset.believe me one evening with me and i have some wonderful plans for both of us.LET LIFE BEGIN AGAIN.call me anytime',ham
+'Pls send me the correct name da.',ham
+'Aight text me when youre back at mu and Ill swing by, need somebody to get the door for me',ham
+'Remember to ask alex about his pizza',ham
+'Should I tell my friend not to come round til like  &lt;#&gt; ish?',ham
+'Oh god..taken the teeth?is it paining',ham
+'Yun ah.the ubi one say if ü wan call by tomorrow.call 67441233 look for irene.ere only got bus8,22,65,61,66,382. Ubi cres,ubi tech park.6ph for 1st 5wkg days.èn',ham
+'Mostly sports type..lyk footbl,crckt..',ham
+'No pic. Please re-send.',ham
+'Oh for fucks sake shes in like tallahassee',ham
+'Now? Im going out 4 dinner soon..',ham
+'Oh is it! Which brand?',ham
+'That was random saw my old roomate on campus. He graduated',ham
+'Leaving to qatar tonite in search of an opportunity.all went fast.pls add me in ur prayers dear.Rakhesh',ham
+'Do u hav any frnd by name ashwini in ur college?',ham
+'Jus came back fr lunch wif my sis only. U leh?',ham
+'Am on a train back from northampton so im afraid not! Im staying skyving off today ho ho! Will be around wednesday though. Do you fancy the comedy club this week by the way?',ham
+'Usf I guess, might as well take 1 car',ham
+'Ummmmmaah Many many happy returns of d day my dear sweet heart.. HAPPY BIRTHDAY dear',ham
+'I want to sent  &lt;#&gt; mesages today. Thats y. Sorry if i hurts',ham
+'See you there!',ham
+'Sorry, Ill call later',ham
+'Are you willing to go for aptitude class.',ham
+'I hate when she does this. She turns what should be a fun shopping trip into an annoying day of how everything would look in her house.',ham
+'You got called a tool?',ham
+'And whenever you and i see we can still hook up too.',ham
+'Oh k :)why you got job then whats up?',ham
+Okie...,ham
+'Also that chat was awesome but dont make it regular unless you can see her in person',ham
+'K, I might come by tonight then if my class lets out early',ham
+'Den wat will e schedule b lk on sun?',ham
+'I want to send something that can sell fast.  &lt;#&gt; k is not easy money.',ham
+'How will I creep on you now? ;_;',ham
+'Oh really?? Did you make it on air? Whats your talent?',ham
+'PICK UR FONE UP NOW U DUMB?',ham
+'Haf u found him? I feel so stupid da v cam was working.',ham
+'Im in solihull, | do you want anything?',ham
+'Cant believe i said so many things to you this morning when all i really wanted to say was good morning, i love you! Have a beautiful morning. See you in the library later.',ham
+'Ü ready then call me...',ham
+'Have you started in skye',ham
+'Yeah, probably earlier than that',ham
+'Thats good. Lets thank God. Please complete the drug. Have lots of water. And have a beautiful day.',ham
+'The fact that youre cleaning shows you know why im upset. Your priority is constantly \"what i want to do,\" not \"what i need to do.\"',ham
+'Right it wasnt you who phoned it was someone with a number like yours!',ham
+'Shit that is really shocking and scary, cant imagine for a second. Def up for night out. Do u think there is somewhere i could crash for night, save on taxi?',ham
+'I can. But it will tell quite long, cos i havent finish my film yet...',ham
+'HI BABE U R MOST LIKELY TO BE IN BED BUT IM SO SORRY ABOUT TONIGHT! I REALLY WANNA SEE U TOMORROW SO CALL ME AT 9. LOVE ME XXX',ham
+'Lmao!nice 1',ham
+'Ok no prob',ham
+'I keep ten rs in my shelf:) buy two egg.',ham
+'Okie but i scared u say i fat... Then u dun wan me already...',ham
+'Did you stitch his trouser',ham
+'Lol yeah at this point I guess not',ham
+'Hurt me... Tease me... Make me cry... But in the end of my life when i die plz keep one rose on my grave and say STUPID I MISS U.. HAVE A NICE DAY BSLVYL',ham
+'When people see my msgs, They think Iam addicted to msging... They are wrong, Bcoz They don\t know that Iam addicted to my sweet Friends..!! BSLVYL',ham
+'Horrible u eat macs eat until u forgot abt me already rite... U take so long 2 reply. I thk its more toot than b4 so b prepared. Now wat shall i eat?',ham
+'But ill b going 2 sch on mon. My sis need 2 take smth.',ham
+'Kothi print out marandratha.',ham
+'Minimum walk is 3miles a day.',ham
+'Hi. Hope you had a good day. Have a better night.',ham
+'Well keep in mind Ive only got enough gas for one more round trip barring a sudden influx of cash',ham
+'cud u tell ppl im gona b a bit l8 cos 2 buses hav gon past cos they were full & im still waitin 4 1. Pete x',ham
+'I love u 2 babe! R u sure everything is alrite. Is he being an idiot? Txt bak girlie',ham
+645,ham
+'No calls..messages..missed calls',ham
+'Sorry, Ill call later',ham
+'Hello, my love! How goes that day ? I wish your well and fine babe and hope that you find some job prospects. I miss you, boytoy ... *a teasing kiss*',ham
+'I got like $ &lt;#&gt; , I can get some more later though. Get whatever you feel like',ham
+'Pls come quick cant bare this.',ham
+'It should take about  &lt;#&gt;  min',ham
+'Its ok my arm is feeling weak cuz i got a shot so we can go another time',ham
+'Are you happy baby ? Are you alright ? Did you take that job ? I hope your fine. I send you a kiss to make you smile from across the sea ... *kiss* *kiss*',ham
+'If we hit it off, you can move in with me :)',ham
+'Cool. So how come you havent been wined and dined before?',ham
+'Oh:)as usual vijay film or its different?',ham
+'Whats up bruv, hope you had a great break. Do have a rewarding semester.',ham
+'I will come to ur home now',ham
+'Hhahhaahahah rofl wtf nig was leonardo in your room or something',ham
+'HELLO PEACH! MY CAKE TASTS LUSH!',ham
+'I was about to do it when i texted. I finished a long time ago and showered and erything!',ham
+'Am not interested to do like that.',ham
+'I know complain num only..bettr directly go to bsnl offc nd apply for it..',ham
+'Yep get with the program. Youre slacking.',ham
+'Anyway seriously hit me up when youre back because otherwise I have to light up with armand and he always has shit and/or is vomiting',ham
+'Yes:)here tv is always available in work place..',ham
+'Short But Cute: \"Be a good person, but dont try to prove it..\" .Gud noon....',ham
+'Shall i get my pouch?',ham
+'Aiyo cos i sms ü then ü neva reply so i wait 4 ü to reply lar. I tot ü havent finish ur lab wat.',ham
+'So i could kiss and feel you next to me...',ham
+'First has she gained more than  &lt;#&gt; kg since she took in. Second has she done the blood sugar tests. If she has and its ok and her blood pressure is within normal limits then no worries',ham
+'Surly ill give it to you:-) while coming to review.',ham
+'Can you call me plz. Your number shows out of coveragd area. I have urgnt call in vasai &amp; have to reach before 4o clock so call me plz',ham
+'Hey pple...$700 or $900 for 5 nights...Excellent location wif breakfast hamper!!!',ham
+'Im taking derek &amp; taylor to walmart, if Im not back by the time youre done just leave the mouse on my desk and Ill text you when priscillas ready',ham
+'Ha ha cool cool chikku chikku:-):-DB-)',ham
+'Ü called dad oredi...',ham
+'Here got ur favorite oyster... N got my favorite sashimi... Ok lar i dun say already... Wait ur stomach start rumbling...',ham
+'Busy here. Trying to finish for new year. I am looking forward to finally meeting you...',ham
+'Hes just gonna worry for nothing. And he wont give you money its no use.',ham
+'Sorry I missed you babe. I was up late and slept in. I hope you enjoy your driving lesson, boytoy. I miss you too ... *teasing kiss*',ham
+'Wat uniform? In where get?',ham
+'Cool, text me when youre ready',ham
+'Hello my boytoy ... Geeee I miss you already and I just woke up. I wish you were here in bed with me, cuddling me. I love you ...',ham
+'Am watching house – very entertaining – am getting the whole hugh laurie thing – even with the stick – indeed especially with the stick.',ham
+'that would be good … Ill phone you tomo lunchtime, shall I, to organise something?',ham
+'I cant keep talking to people if am not sure i can pay them if they agree to price. So pls tell me what you want to really buy and how much you are willing to pay',ham
+'Can you say what happen',ham
+'Bring it if you got it',ham
+'Y?WHERE U AT DOGBREATH? ITS JUST SOUNDING LIKE JAN C THATS AL!!!!!!!!!',ham
+'Hi elaine, is todays meeting confirmed?',ham
+'I am in escape theatre now. . Going to watch KAVALAN in a few minutes',ham
+'Can not use foreign stamps in this country.',ham
+'Im thinking that chennai forgot to come for auction..',ham
+'Ure welcome... Caught u using broken english again...',ham
+'Hmm thinking lor...',ham
+'Lol! Nah wasnt too bad thanks. Its good to b home but its been quite a reality check. Hows ur day been? Did u do anything with website?',ham
+'Customer place i will call you.',ham
+'Mm that time you dont like fun',ham
+'That sucks. Ill go over so u can do my hair. Youll do it free right?',ham
+'Sounds like you have many talents! would you like to go on a dinner date next week?',ham
+'Thats one of the issues but california is okay. No snow so its manageable',ham
+'Then just eat a shit and wait for ur monkey face bitch.......... U asshole..................',ham
+'Yes i think so. I am in office but my lap is in room i think thats on for the last few days. I didnt shut that down',ham
+'Pick you up bout 7.30ish? What time are  and that going?',ham
+'Nah, Wednesday. When should I bring the mini cheetos bag over?',ham
+'Ok im coming home now.',ham
+'I will take care of financial problem.i will help:)',ham
+'Good evening Sir, Al Salam Wahleykkum.sharing a happy news.By the grace of God, i got an offer from Tayseer,TISSCO and i joined.Hope you are fine.Inshah Allah,meet you sometime.Rakhesh,visitor from India.',ham
+'S but mostly not like that.',ham
+'The new deus ex game comin early next yr',ham
+'The hair cream has not been shipped.',ham
+'Let me know how it changes in the next 6hrs. It can even be appendix but you are out of that age range. However its not impossible. So just chill and let me know in 6hrs',ham
+'Den only weekdays got special price... Haiz... Cant eat liao... Cut nails oso muz wait until i finish drivin wat, lunch still muz eat wat...',ham
+'[…] anyway, many good evenings to u! s',ham
+'Hi:)did you asked to waheeda fathima about leave?',ham
+'If you are not coughing then its nothing',ham
+'I send the print  outs da.',ham
+'Brainless Baby Doll..:-D;-), vehicle sariyag drive madoke barolla..',ham
+'Come by our room at some point so we can iron out the plan for this weekend',ham
+'Thanks. It was only from tescos but quite nice. All gone now. Speak soon',ham
+'Okies... Ill go yan jiu too... We can skip ard oso, go cine den go mrt one, blah blah blah...',ham
+'Bring home some Wendy =D',ham
+'Whatsup there. Dont u want to sleep',ham
+'That means from february to april ill be getting a place to stay down there so i dont have to hustle back and forth during audition season as i have since my sister moved away from harlem.',ham
+'Olol i printed out a forum post by a guy with the exact same  prob which was fixed with a gpu replacement. Hopefully they dont ignore that.',ham
+'Yes:)from last week itself im taking live call.',ham
+'Siva is in hostel aha:-.',ham
+'Send this to ur friends and receive something about ur voice..... How is my speaking expression? 1.childish 2.naughty 3.Sentiment 4.rowdy 5.ful of attitude 6.romantic 7.shy 8.Attractive 9.funny  &lt;#&gt; .irritating  &lt;#&gt; .lovable. reply me..',ham
+'Ok. Shell be ok. I guess',ham
+'I uploaded mine to Facebook',ham
+'7 wonders in My WORLD 7th You 6th Ur style 5th Ur smile 4th Ur Personality 3rd Ur Nature 2nd Ur SMS and 1st \"Ur Lovely Friendship\"... good morning dear',ham
+'Dude just saw a parked car with its sunroof popped up. Sux',ham
+', ,  and  picking them up from various points | going 2 yeovil | and they will do the motor project 4 3 hours | and then u take them home. || 12 2 5.30 max. || Very easy',ham
+'At home watching tv lor.',ham
+'They released vday shirts and when u put it on it makes your bottom half naked instead of those white underwear.',ham
+'Ok Chinese food on its way. When I get fat youre paying for my lipo.',ham
+'Hi, Mobile no.  &lt;#&gt;  has added you in their contact list on www.fullonsms.com It s a great place to send free sms to people For more visit fullonsms.com',ham
+'I want to lick your pussy now...',ham
+'Wat would u like 4 ur birthday?',ham
+'How long does applebees fucking take',ham
+'Yup im still having coffee wif my frens... My fren drove shell give me a lift...',ham
+'No da. . Vijay going to talk in jaya tv',ham
+'Hi babe its me thanks for coming even though it didnt go that well!i just wanted my bed! Hope to see you soon love and kisses xxx',ham
+'Sorry, Ill call later',ham
+'Is toshiba portege m100 gd?',ham
+'As if i wasnt having enough trouble sleeping.',ham
+'\"HEY HEY WERETHE MONKEESPEOPLE SAY WE MONKEYAROUND! HOWDY GORGEOUS, HOWU DOIN? FOUNDURSELF A JOBYET SAUSAGE?LOVE JEN XXX\"',ham
+'No objection. My bf not coming.',ham
+'Yeah confirmed for you staying at  that weekend',ham
+'I wont get concentration dear you know you are my mind and everything :-)',ham
+'Now, whats your house # again ? And do you have any beer there ?',ham
+'Not a drop in the tank',ham
+'No problem with the renewal. I.ll do it right away but i dont know his details.',ham
+'Sir, hope your day is going smoothly. i really hoped i wont have to bother you about this. I have some bills that i cant settle this month. I am out of all extra cash. I know this is a challenging time for you also but i have to let you know.',ham
+'Yo! Howz u? girls never rang after india. L',ham
+'I will treasure every moment we spend together...',ham
+'Then cant get da laptop? My matric card wif ü lei...',ham
+'did u get that message',ham
+'R u here yet? Im wearing blue shirt n black pants.',ham
+'I love ya too but try and budget your money better babe. Gary would freak on me if he knew',ham
+'WOT U UP 2 J?',ham
+'JADE ITS PAUL. Y DIDNT U TXT ME? DO U REMEMBER ME FROM BARMED? I WANT 2 TALK 2 U! TXT ME',ham
+'Babes I think I got ur brolly I left it in English wil bring it in 2mrw 4 u luv Franxx',ham
+'Sorry, Ill call later ok bye',ham
+'Did u fix the teeth?if not do it asap.ok take care.',ham
+'Pandy joined 4w technologies today.he got job..',ham
+'They dont put that stuff on the roads to keep it from getting slippery over there?',ham
+Ok,ham
+'No rushing. Im not working. Im in school so if we rush we go hungry.',ham
+'I wake up long ago already... Dunno, what other thing?',ham
+'How long has it been since you screamed, princess?',ham
+'Nothing. I meant that once the money enters your account here, the bank will remove its flat rate. Someone transfered  &lt;#&gt;  to my account and  &lt;#&gt; dollars got removed. So the banks differ and charges also differ.be sure you trust the 9ja person you are sending account details to cos...',ham
+Ok,ham
+'Whom you waited for yesterday',ham
+'We got a divorce. Lol. She.s here',ham
+'Omg how did u know what I ate?',ham
+'Really good:)dhanush rocks once again:)',ham
+'Thursday night? Yeah, sure thing, well work it out then',ham
+'Thank you. And by the way, I just lost.',ham
+'Ok then i come n pick u at engin?',ham
+'When you came to hostel.',ham
+'Beautiful Truth against Gravity.. Read carefully: \"Our heart feels light when someone is in it.. But it feels very heavy when someone leaves it..\" GOODMORNING',ham
+'Whens your radio show?',ham
+'If we win its really no 1 side for long time.',ham
+'Somebody set up a website where you can play hold em using eve online spacebucks',ham
+'Depends on quality. If you want the type i sent boye, faded glory, then about 6. If you want ralphs maybe 2',ham
+'Oh my God. Im almost home',ham
+'Hiya. How was last night? Ive been naughty and bought myself clothes and very little ... Ready for more shopping tho! What kind of time do you wanna meet?',ham
+'Call me, i am senthil from hsbc.',ham
+'I take it we didnt have the phone callon Friday. Can we assume we wont have it this year now?',ham
+'Small problem in auction:)punj now asking tiwary',ham
+'K Ill head out in a few mins, see you there',ham
+'Your pussy is perfect!',ham
+'have * good weekend.',ham
+'Kate jackson rec center before 7ish, right?',ham
+'I am not having her number sir',ham
+'How are you. Wish you a great semester',ham
+'Fine. Do you remember me.',ham
+'Check with nuerologist.',ham
+'Oh... Icic... K lor, den meet other day...',ham
+'I got a call from a landline number. . . I am asked to come to anna nagar . . . I will go in the afternoon',ham
+'Of cos can lar im not so ba dao ok... 1 pm lor... Y u never ask where we go ah... I said u would ask on fri but he said u will ask today...',ham
+'Don know:)this week im going to tirunelvai da.',ham
+'Don know..he is watching film in computer..',ham
+'Ok. But i finish at 6.',ham
+'Its just the effect of irritation. Just ignore it',ham
+'Customer place i will call you',ham
+'Then what about further plan?',ham
+'Ya they are well and fine., BBD(pooja) full pimples..even she become quite black..and ur rite here its too cold, wearing sweatter..',ham
+'House-Maid is the murderer, coz the man was murdered on  &lt;#&gt; th January.. As public holiday all govt.instituitions are closed,including post office..understand?',ham
+'Feb  &lt;#&gt;  is \"I LOVE U\" day. Send dis to all ur \"VALUED FRNDS\" evn me. If 3 comes back ull gt married d person u luv! If u ignore dis u will lose ur luv 4 Evr',ham
+'Usually the person is unconscious thats in children but in adults they may just behave abnormally. I.ll call you now',ham
+'Dear how you. Are you ok?',ham
+'Why she wants to talk to me',ham
+'Sorry, Ill call later',ham
+'If you were/are free i can give. Otherwise nalla adi entey nattil kittum',ham
+'Dad says hurry the hell up',ham
+'Youd like that wouldnt you? Jerk!',ham
+'Im in town now so ill jus take mrt down later.',ham
+'What Today-sunday..sunday is holiday..so no work..',ham
+'Gudnite....tc...practice going on',ham
+'I love working from home :)',ham
+'I need an 8th but Im off campus atm, could I pick up in an hour or two?',ham
+'Guess who spent all last night phasing in and out of the fourth dimension',ham
+'Probably gonna be here for a while, see you later tonight &lt;)',ham
+'Full heat pa:-) i have applyed oil pa.',ham
+'Ummmmmaah Many many happy returns of d day my dear sweet heart.. HAPPY BIRTHDAY dear',ham
+'Sleeping nt feeling well',ham
+'A famous quote : when you develop the ability to listen to anything unconditionally without losing your temper or self confidence, it means you are ......... MARRIED',ham
+'Total video converter free download type this in google search:)',ham
+'Yeah why not, is the gang all ready',ham
+'This girl does not stay in bed. This girl doesnt need recovery time. Id rather pass out while having fun then be cooped up in bed',ham
+'Ay wana meet on sat?ü wkg on sat?',ham
+'Whats up. Do you want me to come online?',ham
+'Im eatin now lor, but goin back to work soon... E mountain deer show huh... I watch b4 liao, very nice...',ham
+'Wait  &lt;#&gt;  min..',ham
+'Ill reach in ard 20 mins ok...',ham
+'Honey ? Sweetheart ? Darling ? Sexy buns ? Sugar plum ? Loverboy ? I miss you, boytoy ... *smacks your ass* Did you go to the gym too ?',ham
+'Ee msg na poortiyagi odalebeku: Hanumanji 7 name 1-Hanuman 2-Bajarangabali 3-Maruti 4-Pavanaputra 5-Sankatmochan 6-Ramaduth 7-Mahaveer ee 7 name  &lt;#&gt;  janarige ivatte kalisidare next saturday olage ondu good news keluviri...! Maretare inde 1 dodda problum nalli siguviri idu matra  &lt;#&gt; \% true.. Dont neglet.',ham
+'\"OH FUCK. JUSWOKE UP IN A BED ON A BOATIN THE DOCKS. SLEPT WID 25 YEAR OLD. SPINOUT! GIV U DA GOSSIP L8R. XXX\"',ham
+'cThen i thk shd b enuff.. Still got conclusion n contents pg n references.. Ill b doing da contents pg n cover pg..',ham
+'Tmr timin still da same wat cos i got lesson until 6...',ham
+'Yup i shd haf ard 10 pages if i add figures... Ü all got how many pages?',ham
+'I pocked you up there before',ham
+'Just curious because my cuz asked what I was up to',ham
+'Our ride equally uneventful - not too many of those pesky cyclists around at that time of night ;).',ham
+'No got new job at bar in airport on satsgettin 4.47per hour but means no lie in! keep in touch',ham
+'Im sorry bout last nite it wasnt ur fault it was me, spouse it was pmt or sumthin! U 4give me? I think u shldxxxx',ham
+'Lemme know when I can swing by and pick up, Im free basically any time after 1 all this semester',ham
+'Edison has rightly said, \"A fool can ask more questions than a wise man can answer\" Now you know why all of us are speechless during ViVa.. GM,GN,GE,GNT:-)',ham
+'All done? All handed in? Celebrations in full swing yet?',ham
+'Why you Dint come with us.',ham
+'Hope you are having a great day.',ham
+'So anyways, you can just go to your gym or whatever, my love *smiles* I hope your ok and having a good day babe ... I miss you so much already',ham
+'Love it! Daddy will make you scream with pleasure! I am going to slap your ass with my dick!',ham
+'Nt yet chikku..simple habba..hw abt u?',ham
+'Ok thanx...',ham
+'Lets use it next week, princess :)',ham
+'Did I forget to tell you ? I want you , I need you, I crave you ... But most of all ... I love you my sweet Arabian steed ... Mmmmmm ... Yummy',ham
+'Ujhhhhhhh computer shipped out with address to sandiago and parantella lane. Wtf. Poop.',ham
+'Nope i waiting in sch 4 daddy...',ham
+'I liked your new house',ham
+'Am okay. Will soon be over. All the best',ham
+'Arngd marriage is while u r walkin unfortuntly a snake bites u. bt love marriage is dancing in frnt of d snake &amp; sayin Bite me, bite me.',ham
+'Sir, i am waiting for your call.',ham
+'Feel Yourself That You Are Always Happy.. Slowly It Becomes Your Habit &amp; Finally It Becomes Part Of Your Life.. Follow It.. Happy Morning &amp; Have A Happy Day:)',ham
+'Just finished eating. Got u a plate. NOT leftovers this time.',ham
+'Are you wet right now?',ham
+'I havent lei.. Next mon can?',ham
+'.Please charge my mobile when you get up in morning.',ham
+'In xam hall boy asked girl Tell me the starting term for dis answer I can den manage on my own After lot of hesitation n lookin around silently she said THE! intha ponnungale ipaditan;)',ham
+'You are gorgeous! keep those pix cumming :) thank you!',ham
+'R u still working now?',ham
+'K.k.how is your business now?',ham
+'Aight Ill grab something to eat too, text me when youre back at mu',ham
+'Dont pick up d call when something important is There to tell. Hrishi',ham
+'Im home. Ard wat time will u reach?',ham
+Ok...,ham
+'Cant take any major roles in community outreach. You rock mel',ham
+'Hahaha..use your brain dear',ham
+'Ok that would b lovely, if u r sure. Think about wot u want to do, drinkin, dancin, eatin, cinema, in, out, about... Up to u! Wot about ?',ham
+'Just got to  &lt;#&gt;',ham
+'K k:) sms chat with me.',ham
+'Meet after lunch la...',ham
+'TaKe CaRE n gET WeLL sOOn',ham
+'Hi where you. You in home or calicut?',ham
+'Ultimately tor motive tui achieve korli.',ham
+'You said to me before i went back to bed that you cant sleep for anything.',ham
+'Its a valentine game. . . Send dis msg to all ur friends. .. If 5 answers r d same then someone really loves u. Ques- which colour suits me the best?rply me',ham
+'I have many dependents',ham
+'Its ok, at least armands still around',ham
+'I dont know exactly could you ask chechi.',ham
+'Im vivek:)i got call from your number.',ham
+'Dear, take care. I am just reaching home.love u a lot.',ham
+'Im at work. Please call',ham
+'I come n pick ü up... Come out immediately aft ur lesson...',ham
+'Let there be snow. Let there be snow. This kind of weather brings ppl together so friendships can grow.',ham
+'Havent heard anything and hes not answering my texts so Im guessing he flaked. That said the jb is fantastic',ham
+'Good words.... But words may leave u in dismay many times.',ham
+'Gain the rights of a wife.dont demand it.i am trying as husband too.Lets see',ham
+'Ya it came a while ago',ham
+'I am not sure about night menu. . . I know only about noon menu',ham
+'Haha good to hear, Im officially paid and on the market for an 8th',ham
+'No i am not having not any movies in my laptop',ham
+'Aiyar hard 2 type. U later free then tell me then i call n scold n tell u.',ham
+'K Ill take care of it',ham
+'You know what hook up means right?',ham
+'Oh that was a forwarded message. I thought you send that to me',ham
+'He said i look pretty wif long hair wat. But i thk hes cutting quite short 4 me leh.',ham
+'Thank u. IT BETTER WORK OUT CAUSE I WILL FEEL USED OTHERWISE',ham
+'Jane babes not goin 2 wrk, feel ill after lst nite. Foned in already cover 4 me chuck.:-)',ham
+'K..then come wenever u lik to come and also tel vikky to come by getting free time..:-)',ham
+'What will we do in the shower, baby?',ham
+'I thk ü gotta go home by urself. Cos ill b going out shopping 4 my frens present.',ham
+'Well imma definitely need to restock before thanksgiving, Ill let you know when Im out',ham
+'He says hi and to get your ass back to south tampa (preferably at a kegger)',ham
+'G wants to know where the fuck you are',ham
+'Can i get your opinion on something first?',ham
+'Allo! We have braved the buses and taken on the trains and triumphed. I mean we‘re in b‘ham. Have a jolly good rest of week',ham
+'Life spend with someone for a lifetime may be meaningless but a few moments spent with someone who really love you means more than life itself..',ham
+'Lol I would but despite these cramps I like being a girl.',ham
+'Tell me whos this pls:-)',ham
+'Fighting with the world is easy, u either win or lose bt fightng with some1 who is close to u is dificult if u lose - u lose if u win - u still lose.',ham
+'Pls tell nelson that the bbs are no longer comin. The money i was expecting aint coming',ham
+'Quite lor. But dun tell him wait he get complacent...',ham
+'Fine i miss you very much.',ham
+'\"GRAN ONLYFOUND OUT AFEW DAYS AGO.CUSOON HONI\"',ham
+'Hmm, too many of them unfortunately... Pics obviously arent hot cakes. Its kinda fun tho',ham
+'Pathaya enketa maraikara pa',ham
+'Host-based IDPS for linux systems.',ham
+'Nobody can decide where to eat and dad wants Chinese',ham
+'Hey i will be late... im at amk. Need to drink tea or coffee',ham
+':-( thats not v romantic!',ham
+'Honeybee Said: *Im d Sweetest in d World* God Laughed &amp; Said: *Wait,U Havnt Met d Person Reading This Msg* MORAL: Even GOD Can Crack Jokes! GM+GN+GE+GN:)',ham
+'&lt;#&gt; , thats all? Guess thats easy enough',ham
+'Hows the pain dear?y r u smiling?',ham
+'Anything lar...',ham
+'What time you thinkin of goin?',ham
+'Night has ended for another day, morning has come in a special way. May you smile like the sunny rays and leaves your worries at the blue blue bay. Gud mrng',ham
+'Sorry that was my uncle. I.ll keep in touch',ham
+'Did u receive my msg?',ham
+'Im e person whos doing e sms survey...',ham
+'Ditto. And you wont have to worry about me saying ANYTHING to you anymore. Like i said last night, you do whatever you want and ill do the same. Peace.',ham
+'Yeah probably, I still gotta check out with leo',ham
+'Having lunch:)you are not in online?why?',ham
+'Maybe?! Say hi to  and find out if  got his card. Great escape or wetherspoons?',ham
+'Today is ACCEPT DAY..U Accept me as? Brother Sister Lover Dear1 Best1 Clos1 Lvblefrnd Jstfrnd Cutefrnd Lifpartnr Belovd Swtheart Bstfrnd No rply means enemy',ham
+'Didnt you get hep b immunisation in nigeria.',ham
+'Wait.i will come out.. &lt;#&gt;  min:)',ham
+'What is this hex place you talk of? Explain!',ham
+'Wheres my boytoy? I miss you ... What happened?',ham
+'V skint too but fancied few bevies.waz gona go meet &othrs in spoon but jst bin watchng planet earth&sofa is v comfey; If i dont make it hav gd night',ham
+'I only work from mon to thurs but Sat i cant leh... Booked liao... Which other day u free?',ham
+'Have you finished work yet? :)',ham
+'Every King Was Once A Crying Baby And Every Great Building Was Once A Map.. Not Imprtant Where U r TODAY, BUT Where U Wil Reach TOMORW. Gud ni8',ham
+'* Was really good to see you the other day dudette, been missing you!',ham
+'Hi neva worry bout da truth coz the truth will lead me 2 ur heart. Its the least a unique person like u deserve. Sleep tight or morning',ham
+'Was the farm open?',ham
+'Sorry to trouble u again. Can buy 4d for my dad again? 1405, 1680, 1843. All 2 big 1 small, sat n sun. Thanx.',ham
+'Our Prasanth ettans mother passed away last night. Just pray for her and family.',ham
+'Otherwise had part time job na-tuition..',ham
+'Got it..mail panren paru..',ham
+'Good. Good job. I like entrepreneurs',ham
+'How did you find out in a way that didnt include all of these details',ham
+'Want to send me a virtual hug?... I need one',ham
+'As usual..iam fine, happy &amp; doing well..:)',ham
+'I cant pick the phone right now. Pls send a message',ham
+'How much r ü willing to pay?',ham
+'Try neva mate!!',ham
+'K...k...when will you give treat?',ham
+'Thats a bit weird, even ?- where is the do supposed to be happening? But good idea, sure they will be in pub!',ham
+'Baaaaaaaabe! Wake up ! I miss you ! I crave you! I need you!',ham
+'Me also da, i feel yesterday night  wait til 2day night dear.',ham
+'Oh did you charge camera',ham
+'I thought slide is enough.',ham
+'Ive been trying to reach him without success',ham
+'Night night, see you tomorrow',ham
+'I will cme i want to go to hos 2morow. After that i wil cme. This what i got from her dear what to do. She didnt say any time',ham
+'He also knows about lunch menu only da. . I know',ham
+Ok...,ham
+'A lot of this sickness thing going round. Take it easy. Hope u feel better soon. Lol',ham
+'Finished class where are you.',ham
+'I will reach office around  &lt;DECIMAL&gt; . &amp; my mobile have problem. You cannt get my voice. So call you asa ill free',ham
+'Sfine. Anytime. All the best with it.',ham
+'I am literally in bed and have been up for like  &lt;#&gt;  hours',ham
+'Just send a text. Well skype later.',ham
+'Aight sorry I take ten years to shower. Whats the plan?',ham
+'Havent left yet so probably gonna be here til dinner',ham
+'Hey... Thk we juz go accordin to wat we discussed yest lor, except no kb on sun... Cos theres nt much lesson to go if we attend kb on sat...',ham
+'\"HEY BABE! FAR 2 SPUN-OUT 2 SPK AT DA MO... DEAD 2 DA WRLD. BEEN SLEEPING ON DA SOFA ALL DAY, HAD A COOL NYTHO, TX 4 FONIN HON, CALL 2MWEN IM BK FRMCLOUD 9! J X\"',ham
+'Exactly. Anyways how far. Is jide her to study or just visiting',ham
+'It has everything to do with the weather. Keep extra warm. Its a cold but nothing serious. Pls lots of vitamin c',ham
+'Hey tmr meet at bugis 930 ?',ham
+'Ok. How many should i buy.',ham
+'Please protect yourself from e-threats. SIB never asks for sensitive information like Passwords,ATM/SMS PIN thru email. Never share your password with anybody.',ham
+'All sounds good. Fingers . Makes it difficult to type',ham
+'Dont search love, let love find U. Thats why its called falling in love, bcoz U dont force yourself, U just fall and U know there is smeone to hold U... BSLVYL',ham
+'Hi this is yijue, can i meet u at 11 tmr?',ham
+'Haha yeah, 2 oz is kind of a shitload',ham
+'Haha mayb ure rite... U know me well. Da feeling of being liked by someone is gd lor. U faster go find one then all gals in our group attached liao.',ham
+'Oops my phone died and I didnt even know. Yeah I like it better.',ham
+'R U &SAM P IN EACHOTHER. IF WE MEET WE CAN GO 2 MY HOUSE',ham
+'Lmao ok I wont be needing u to do my hair anymore.',ham
+'Ok. There may be a free gym about.',ham
+'She.s good. She was wondering if you wont say hi but she.s smiling now. So how are you coping with the long distance',ham
+'How are you holding up?',ham
+'I promise to take good care of you, princess. I have to run now. Please send pics when you get a chance. Ttyl!',ham
+'Hi juan. Im coming home on fri hey. Of course i expect a welcome party and lots of presents. Ill phone u when i get back. Loads of love nicky x x x x x x x x x',ham
+'OH RITE. WELL IM WITH MY BEST MATE PETE, WHO I WENT OUT WITH 4 A WEEK+ NOW WERE 2GEVA AGAIN. ITS BEEN LONGER THAN A WEEK.',ham
+'O was not into fps then.',ham
+'Easy mate, * guess the quick drink was bit ambitious.',ham
+'Playin space poker, u?',ham
+'3 pa but not selected.',ham
+'Ü takin linear algebra today?',ham
+'Im okay. Chasing the dream. Whats good. What are you doing next.',ham
+'Its not that you make me cry. Its just that when all our stuff happens on top of everything else, it pushes me over the edge. You dont underdtand how often i cry over my sorry, sorry life.',ham
+'Thanks for sending this mental ability question..',ham
+'I aint answerin no phone at what is actually a pretty reasonable hour but Im sleepy',ham
+'Yeah no probs - last night is obviously catching up with you... Speak soon',ham
+'sorry brah, just finished the last of my exams, what up',ham
+'Ok da, i already planned. I wil pick you.',ham
+'Sorry, Ill call later',ham
+'I sent your maga that money yesterday oh.',ham
+'Heart is empty without love.. Mind is empty without wisdom.. Eyes r empty without dreams &amp; Life is empty without frnds.. So Alwys Be In Touch. Good night &amp; sweet dreams',ham
+'Not getting anywhere with this damn job hunting over here!',ham
+'Ya had just now.onion roast.',ham
+'No dice, art class 6 thru 9 :( thanks though. Any idea what time I should come tomorrow?',ham
+'at bruce b downs &amp; fletcher now',ham
+'Just sleeping..and surfing',ham
+'Yeah I should be able to, Ill text you when Im ready to meet up',ham
+'U r too much close to my heart. If u go away i will be shattered. Plz stay with me.',ham
+'K and youre sure I dont have to have consent forms to do it :V',ham
+'Yupz... Ive oredi booked slots 4 my weekends liao...',ham
+'Beautiful truth : Expression of the face could Be seen by everyone... But the depression of heart Could be understood only By the Loved ones.. Gud Ni8;-)',ham
+'WE REGRET TO INFORM U THAT THE NHS HAS MADE A MISTAKE.U WERE NEVER ACTUALLY BORN.PLEASE REPORT 2 YOR LOCAL HOSPITAL 2B TERMINATED.WE R SORRY 4 THE INCONVENIENCE',ham
+Okie,ham
+'1s finish meeting call me.',ham
+'My life Means a lot to me, Not because I love my life, But because I love the people in my life, The world calls them friends, I call them my World:-).. Ge:-)..',ham
+'She was supposed to be but couldnt make it, shes still in town though',ham
+'Why de. You looking good only:-)..',ham
+'Well, I meant as opposed to my drunken night of before',ham
+'Already one guy loving you:-.',ham
+'Say this slowly.? GOD,I LOVE YOU &amp; I NEED YOU,CLEAN MY HEART WITH YOUR BLOOD.Send this to Ten special people &amp; u c miracle tomorrow, do it,pls,pls do it...',ham
+'This is all just creepy and crazy to me.',ham
+'Omg I want to scream. I weighed myself and I lost more weight! Woohoo!',ham
+'No, I decided that only people who care about stuff vote and caring about stuff is for losers',ham
+'Hes really into skateboarding now despite the fact that he gets thrown off of it and winds up with bandages and shit all over his arms every five minutes',ham
+'Im also came to room.',ham
+'How r ü going to send it to me?',ham
+'Yes.he have good crickiting mind',ham
+'Appt is at &lt;TIME&gt; am. Not my fault u dont listen. I told u twice',ham
+'I want  &lt;#&gt;  rs da:)do you have it?',ham
+'Thought we could go out for dinner. Ill treat you! Seem ok?',ham
+'No dear i was sleeping :-P',ham
+'Wat time ü finish?',ham
+'(And my man carlos is definitely coming by mu tonight, no excuses)',ham
+'They are just making it easy to pay back. I have  &lt;#&gt; yrs to say but i can pay back earlier. You get?',ham
+'Tell your friends what you plan to do on Valentines day @ &lt;URL&gt;',ham
+'So theres a ring that comes with the guys costumes. Its there so they can gift their future yowifes. Hint hint',ham
+'Ew are you one of them?',ham
+'Oi when you gonna ring',ham
+'U should make a fb list',ham
+'Dhoni have luck to win some big title.so we will win:)',ham
+'Sure! I am driving but will reach my destination soon.',ham
+'Whats that coming over the hill..... Is it a monster! Hope you have a great day. Things r going fine here, busy though!',ham
+'How are you with moneY...as in to you...money aint a thing....how are you sha!',ham
+'Erm … ill pick you up at about 6.45pm. Thatll give enough time to get there, park and that.',ham
+'Have a good evening! Ttyl',ham
+'\"Are you comingdown later?\"',ham
+'Honey, can you pls find out how much they sell Predicte in Nigeria. And how many times can it be used. Its very important to have a reply before monday',ham
+'Eatin my lunch...',ham
+'Yes obviously, but you are the eggs-pert and the potato head… Speak soon!',ham
+'Tomarrow i want to got to court. At  &lt;DECIMAL&gt; . So you come to bus stand at 9.',ham
+'Da is good good player.why he is unsold.',ham
+'Thank you so much. When we skyped wit kz and sura, we didnt get the pleasure of your company. Hope you are good. Weve given you ultimatum oh! We are countin down to aburo. Enjoy! This is the message i sent days ago',ham
+'wiskey Brandy Rum Gin Beer Vodka Scotch Shampain Wine \"KUDI\"yarasu dhina vaazhthukkal. ..',ham
+'Good Morning my Dear........... Have a great &amp; successful day.',ham
+'Ha! I wouldnt say that I just didnt read anything into way u seemed. I dont like 2 be judgemental....i save that for fridays in the pub!',ham
+'Yoyyooo u know how to change permissions for a drive in mac. My usb flash drive',ham
+'2marrow only. Wed at  &lt;#&gt;  to 2 aha.',ham
+'Im at home. Please call',ham
+'Got hella gas money, want to go on a grand nature adventure with galileo in a little bit?',ham
+'Meanwhile in the shit suite: xavier decided to give us  &lt;#&gt;  seconds of warning that samantha was coming over and is playing jays guitar to impress her or some shit. Also I dont think doug realizes I dont live here anymore',ham
+'Hey sathya till now we dint meet not even a single time then how can i saw the situation sathya.',ham
+'I am in office:)whats the matter..msg me now.i will call you at break:).',ham
+'Then anything special?',ham
+'V-aluable. A-ffectionate. L-oveable. E-ternal. N-oble. T-ruthful. I-ntimate. N-atural. E-namous. Happy \"VALENTINES DAY\" in advance',ham
+'Hows the street where the end of library walk is?',ham
+'And also Ive sorta blown him off a couple times recently so id rather not text him out of the blue looking for weed',ham
+'When u love someone Dont make them to love u as much as u do. But Love them so much that they dont want to be loved by anyone except you... Gud nit.',ham
+'How to Make a girl Happy? Its not at all difficult to make girls happy. U only need to be... 1. A friend 2. Companion 3. Lover 4. Chef . . .  &lt;#&gt; . Good listener  &lt;#&gt; . Organizer  &lt;#&gt; . Good boyfriend  &lt;#&gt; . Very clean  &lt;#&gt; . Sympathetic  &lt;#&gt; . Athletic  &lt;#&gt; . Warm . . .  &lt;#&gt; . Courageous  &lt;#&gt; . Determined  &lt;#&gt; . True  &lt;#&gt; . Dependable  &lt;#&gt; . Intelligent . . .  &lt;#&gt; . Psychologist  &lt;#&gt; . Pest exterminator  &lt;#&gt; . Psychiatrist  &lt;#&gt; . Healer . .  &lt;#&gt; . Stylist  &lt;#&gt; . Driver . . Aaniye pudunga venaam..',ham
+'It has issues right now. Ill fix for her by tomorrow.',ham
+'Sure, whenever you show the fuck up &gt;:(',ham
+'Aight, well head out in a few',ham
+'Later i guess. I needa do mcat study too.',ham
+'Feel like trying kadeem again? :V',ham
+'It‘s reassuring, in this crazy world.',ham
+'Eek thats a lot of time especially since American Pie is like 8 minutes long. I cant stop singing it.',ham
+'I ask if u meeting da ge tmr nite...',ham
+'A bit of Ur smile is my hppnss, a drop of Ur tear is my sorrow, a part of Ur heart is my life, a heart like mine wil care for U, forevr as my GOODFRIEND',ham
+'Actually im waiting for 2 weeks when they start putting ad.',ham
+'Hi Harishs rent has been transfred to ur Acnt.',ham
+'U gd lor go shopping i got stuff to do. U wan 2 watch infernal affairs a not? Come lar...',ham
+'I absolutely LOVE South Park! I only recently started watching the office.',ham
+'If anyone calls for a treadmill say youll buy it. Make sure its working. I found an ad on Craigslist selling for $ &lt;#&gt; .',ham
+'Hi Test on  &lt;#&gt; rd ....',ham
+'Do whatever you want. You know what the rules are. We had a talk earlier this week about what had to start happening, you showing responsibility. Yet, every week its can i bend the rule this way? What about that way? Do whatever. Im tired of having thia same argument with you every week. And a  &lt;#&gt;  movie DOESNT inlude the previews. Youre still getting in after 1.',ham
+'BABE !!! I miiiiiiissssssssss you ! I need you !!! I crave you !!! :-( ... Geeee ... Im so sad without you babe ... I love you ...',ham
+'Jus finish blowing my hair. U finish dinner already?',ham
+'Hmm...Bad news...Hype park plaza $700 studio taken...Only left 2 bedrm-$900...',ham
+'I jus hope its true that  missin me cos im really missin him! You havent done anything to feel guilty about, yet.',ham
+'Gibbs unsold.mike hussey',ham
+'Great. Im in church now, will holla when i get out',ham
+'Y dun cut too short leh. U dun like ah? She failed. Shes quite sad.',ham
+'You unbelievable faglord',ham
+'Wife.how she knew the time of murder exactly',ham
+'So wats da decision?',ham
+'Sorry, its a lot of friend-of-a-friend stuff, Im just now about to talk to the actual guy who wants to buy',ham
+'You at mu? You should try to figure out how much money everyone has for gas and alcohol, jay and I are trying to figure out our weed budget',ham
+'Just arrived, see you in a couple days &lt;3',ham
+'Wah... Okie okie... Muz make use of e unlimited... Haha...',ham
+'Also track down any lighters you can find',ham
+'Yar i wanted 2 scold u yest but late already... I where got zhong se qing you? If u ask me b4 he ask me then ill go out w u all lor. N u still can act so real.',ham
+'Im turning off my phone. My moms telling everyone I have cancer. And my sister wont stop calling. It hurts to talk. Cant put up with it. See u when u get home. Love u',ham
+'Nite nite pocay wocay luv u more than n e thing 4eva I promise ring u 2morrowxxxx',ham
+'Fuck babe, I miss you sooooo much !! I wish you were here to sleep with me ... My bed is so lonely ... I go now, to sleep ... To dream of you, my love ...',ham
+'Thanks honey but still havent heard anything I will leave it a bit longer so not 2 crowd him and will try later - great advice thanks hope cardiff is still there!',ham
+'Hey ! Dont forget ... You are MINE ... For ME ... My possession ... MY property ... MMM ... *childish smile* ...',ham
+'Lovely smell on this bus and it aint tobacco...',ham
+'ITS A LAPTOP TAKE IT WITH YOU.',ham
+'You are not bothering me but you have to trust my answers. Pls.',ham
+'Now u sound like manky scouse boy steve,like! I is travelling on da bus home.wot has u inmind 4 recreation dis eve?',ham
+'WHITE FUDGE OREOS ARE IN STORES',ham
+'Haha get used to driving to usf man, I know a lot of stoners',ham
+'Then we gotta do it after that',ham
+'I am in tirupur.  call you da.',ham
+'Does daddy have a bb now.',ham
+'Call me da, i am waiting for your call.',ham
+'I could ask carlos if we could get more if anybody else can chip in',ham
+'Really... I tot ur paper ended long ago... But wat u copied jus now got use? U happy lar... I still haf 2 study :-(',ham
+'Pls dont restrict her from eating anythin she likes for the next two days.',ham
+'Hey you gave them your photo when you registered for driving ah? Tmr wanna meet at yck?',ham
+'Will be out of class in a few hours. Sorry',ham
+'I need... Coz i never go before',ham
+'That seems unnecessarily affectionate',ham
+'Erm... Woodland avenue somewhere. Do you get the parish magazine, his telephone number will be in there.',ham
+'Im in inside office..still filling forms.don know when they leave me.',ham
+'Howz pain?hope u r fine..',ham
+'In the end she might still vomit but its okay. Not everything will come out.',ham
+'But Im on a diet. And I ate 1 too many slices of pizza yesterday. Ugh Im ALWAYS on a diet.',ham
+'We left already we at orchard now.',ham
+'Kent vale lor... Ü wait 4 me there ar?',ham
+'How many times i told in the stage all use to laugh. You not listen aha.',ham
+'Great. P diddy is my neighbor and comes for toothpaste every morning',ham
+'He fucking chickened out. He messaged me he would be late and woould buzz me and then I didnt hear a word from him',ham
+'MOON has come to color your dreams, STARS to make them musical and my SMS to give you warm and Peaceful Sleep. Good Night',ham
+'Yay! You better not have told that to 5 other girls either.',ham
+'Since when, which side, any fever, any vomitin.',ham
+'Probably, want to pick up more?',ham
+'What happen to her tell the truth',ham
+'No we sell it all so well have tons if coins. Then sell our coins to someone thru paypal. Voila! Money back in life pockets:)',ham
+'Okey doke. Im at home, but not dressed cos laying around ill! Speak to you later bout times and stuff.',ham
+'I fetch yun or u fetch?',ham
+'I cant pick the phone right now. Pls send a message',ham
+'Yeah if we do have to get a random dude we need to change our info sheets to PARTY  &lt;#&gt; /7 NEVER STUDY just to be safe',ham
+'Well Im going to be an aunty!',ham
+'Chk in ur belovd ms dict',ham
+'Reason is if the team budget is available at last they buy the unsold players for at base rate..',ham
+'May i call You later Pls',ham
+'Hi, wkend ok but journey terrible. Wk not good as have huge back log of marking to do',ham
+'Cool, text me when you head out',ham
+'Thats fine, have him give me a call if he knows what he wants or has any questions',ham
+'What happened in interview?',ham
+'Ok enjoy . R u there in home.',ham
+'Ranjith cal drpd Deeraj and deepak 5min hold',ham
+'Just chill for another 6hrs. If you could sleep the pain is not a surgical emergency so see how it unfolds. Okay',ham
+'\"Im on gloucesterroad what are uup to later?\"',ham
+'Yes see ya not on the dot',ham
+'Watching cartoon, listening music &amp; at eve had to go temple &amp; church.. What about u?',ham
+'Alrite jod hows the revision goin? Keris bin doin a smidgin. N e way u wanna cum over after college?xx',ham
+'Raviyog Peripherals bhayandar east',ham
+'This is my number by vivek..',ham
+'Yes when is the appt again?',ham
+'What do u want when i come back?.a beautiful necklace as a token of my heart for you.thats what i will give but ONLY to MY WIFE OF MY LIKING.BE THAT AND SEE..NO ONE can give you that.dont call me.i will wait till i come.',ham
+'Sorry, Ill call later in meeting',ham
+'It wont b until 2.15 as trying 2 sort house out, is that ok?',ham
+'Oh thanks a lot..i already bought 2 eggs ..',ham
+'Whats up my own oga. Left my phone at home and just saw ur messages. Hope you are good. Have a great weekend.',ham
+'Aight, let me know when youre gonna be around usf',ham
+'I love u 2 my little pocy bell I am sorry but I love u',ham
+'Just dropped em off, omw back now',ham
+'No need to ke qi... Ü too bored izzit y suddenly thk of this...',ham
+'How much did ur hdd casing cost.',ham
+'I‘ll leave around four, ok?',ham
+'Tell my  bad character which u Dnt lik in me. Ill try to change in  &lt;#&gt; . I ll add tat 2 my new year resolution. Waiting for ur reply.Be frank...good morning.',ham
+'Hmph. Go head, big baller.',ham
+'Im sick !! Im needy !! I want you !! *pouts* *stomps feet* Where are you ?! *pouts* *stomps feet* I want my slave !! I want him now !!',ham
+Ok...,ham
+'Yunny im walking in citylink now ü faster come down... Me very hungry...',ham
+'K Ill be sure to get up before noon and see whats what',ham
+'You have got tallent but you are wasting.',ham
+'What i mean was i left too early to check, cos im working a 9-6.',ham
+'No:-)i got rumour that you going to buy apartment in chennai:-)',ham
+'Hi, my love! How goes that day? Fuck, this morning I woke and dropped my cell on the way down the stairs but it seems alright ... *phews* I miss you !',ham
+'Ugh. Gotta drive back to sd from la. My butt is sore.',ham
+'whatever, im pretty pissed off.',ham
+'A boy was late 2 home. His father: \"POWER OF FRNDSHIP\"',ham
+'Will do. Have a good day',ham
+'Friendship poem: Dear O Dear U R Not Near But I Can Hear Dont Get Fear Live With Cheer No More Tear U R Always my Dear. Gud ni8',ham
+'S:)8 min to go for lunch:)',ham
+'What i mean is do they come chase you out when its over or is it stated you can watch as many movies as you want.',ham
+'Hey ive booked the 2 lessons on sun liao...',ham
+'Not a lot has happened here. Feels very quiet. Beth is at her aunts and charlie is working lots. Just me and helen in at the mo. How have you been?',ham
+'Sorry, Ill call later',ham
+'Call me when ure done...',ham
+'No management puzzeles.',ham
+'Friendship poem: Dear O Dear U R Not Near But I Can Hear Dont Get Fear Live With Cheer No More Tear U R Always my Dear. Gud ni8',ham
+'I just made some payments so dont have that much. Sorry. Would you want it fedex or the other way.',ham
+'I.ll post her out l8r. In class',ham
+'Pls ask macho how much is budget for bb bold 2 is cos i saw a new one for  &lt;#&gt;  dollars.',ham
+'Im so in love with you. Im excited each day i spend with you. You make me so happy.',ham
+'Poyyarikatur,kolathupalayam,unjalur post,erode dis, &lt;#&gt; .',ham
+'Dear Hero,i am leaving to qatar tonite for an apt opportunity.pls do keep in touch at  &lt;EMAIL&gt; ,kerala',ham
+'its still not working. And this time i also tried adding zeros. That was the savings. The checking is  &lt;#&gt;',ham
+'Am surfing online store. For offers do you want to buy any thing.',ham
+'The house is on the water with a dock, a boat rolled up with a newscaster who dabbles in jazz flute behind the wheel',ham
+'Hey sexy buns! What of that day? No word from you this morning on YM ... :-( ... I think of you',ham
+'Sweet, we may or may not go to 4U to meet carlos so gauge pattys interest in that',ham
+'Mon okie lor... Haha, best is cheap n gd food la, ex oso okie... Depends on whether wana eat western or chinese food... Den which u prefer...',ham
+'He neva grumble but i sad lor... Hee... Buy tmr lor aft lunch. But we still meetin 4 lunch tmr a not. Neva hear fr them lei. Ü got a lot of work ar?',ham
+'Nope watching tv at home... Not going out. V bored...',ham
+'Cps is causing the outages to conserve energy.',ham
+'hi baby im sat on the bloody bus at the mo and i wont be home until about 7:30 wanna do somethin later? call me later ortxt back jess xx',ham
+'We still on for tonight?',ham
+'Shuhui has bought rons present its a swatch watch...',ham
+'Hasnt that been the pattern recently crap weekends?',ham
+'No my mum went 2 dentist.',ham
+'Ok. C u then.',ham
+'Slaaaaave ! Where are you ? Must I summon you to me all the time now ? Dont you wish to come to me on your own anymore?',ham
+'Lol you forgot it eh ? Yes, Ill bring it in babe',ham
+'A bloo bloo bloo Ill miss the first bowl',ham
+'Well theres still a bit left if you guys want to tonight',ham
+'LMAO wheres your fish memory when I need it?',ham
+'Then i buy.',ham
+'Well i will watch shrek in 3D!!B)',ham
+'Ok. Can be later showing around 8-8:30 if you want + cld have drink before. Wld prefer not to spend money on nosh if you dont mind, as doing that nxt wk.',ham
+'Jus finish watching tv... U?',ham
+'Ok lor...',ham
+'naughty little thought: its better to flirt, flirt n flirt, rather than loving someone n gettin hurt, hurt n hurt...:-) Gud nyt',ham
+'Im not sure, I was just checking out what was happening around the area',ham
+'K then 2marrow are you coming to class.',ham
+'Convey my regards to him',ham
+'Kaiez... Enjoy ur tuition... Gee... Thk e second option sounds beta... Ill go yan jiu den msg u...',ham
+'Rose for red,red for blood,blood for heart,heart for u. But u for me.... Send tis to all ur friends.. Including me.. If u like me.. If u get back, 1-u r poor in relation! 2-u need some 1 to support 3-u r frnd 2 many 4-some1 luvs u 5+- some1 is praying god to marry u.:-) try it....',ham
+'Er, hello, things didn‘t quite go to plan – is limping slowly home followed by aa and with exhaust hanging off',ham
+'1) Go to write msg 2) Put on Dictionary mode 3)Cover the screen with hand, 4)Press  &lt;#&gt; . 5)Gently remove Ur hand.. Its interesting..:)',ham
+'Fighting with the world is easy, u either win or lose bt fightng with some1 who is close to u is dificult if u lose - u lose if u win - u still lose.',ham
+'My friend, shes studying at warwick, weve planned to go shopping and to concert tmw, but it may be canceled, havnt seen  for ages, yeah we should get together sometime!',ham
+'I am on the way to ur home',ham
+'Hey im bored... So im thinking of u... So wat r u doing?',ham
+'I got another job! The one at the hospital doing data analysis or something, starts on monday! Not sure when my thesis will got finished',ham
+'Lol for real. She told my dad I have cancer',ham
+'HIYA COMIN 2 BRISTOL 1 ST WEEK IN APRIL. LES GOT OFF + RUDI ON NEW YRS EVE BUT I WAS SNORING.THEY WERE DRUNK! U BAK AT COLLEGE YET? MY WORK SENDS INK 2 BATH.',ham
+'Every day i use to sleep after  &lt;#&gt;  so only.',ham
+'Thanks for loving me so. You rock',ham
+'Ard 515 like dat. Y?',ham
+'Thats y we haf to combine n c how lor...',ham
+'Lol. Well quality aint bad at all so i aint complaining',ham
+'You busy or can I come by at some point and figure out what were doing tomorrow',ham
+'SERIOUSLY. TELL HER THOSE EXACT WORDS RIGHT NOW.',ham
+'Havent eaten all day. Im sitting here staring at this juicy pizza and I cant eat it. These meds are ruining my life.',ham
+'Yup. Anything lor, if u dun wan its ok...',ham
+'I hope your alright babe? I worry that you might have felt a bit desparate when you learned the job was a fake ? I am here waiting when you come back, my love',ham
+'Why nothing. Ok anyway give me treat',ham
+'An Amazing Quote - \"Sometimes in life its difficult to decide whats wrong!! a lie that brings a smile or the truth that brings a tear....\"',ham
+'S da..al r above  &lt;#&gt;',ham
+'Huh so fast... Dat means u havent finished painting?',ham
+Ok...,ham
+'Of course ! Dont tease me ... You know I simply must see ! *grins* ... Do keep me posted my prey ... *loving smile* *devouring kiss*',ham
+'U having lunch alone? I now so bored...',ham
+'Then she dun believe wat?',ham
+'Convey my regards to him',ham
+'i want to grasp your pretty booty :)',ham
+'Desires- u going to doctor 4 liver. And get a bit stylish. Get ur hair managed. Thats it.',ham
+'Can u get pic msgs to your phone?',ham
+'Love you aathi..love u lot..',ham
+'Wat makes some people dearer is not just de happiness dat u feel when u meet them but de pain u feel when u miss dem!!!',ham
+'Except theres a chick with huge boobs.',ham
+'Ok lor but not too early. Me still having project meeting now.',ham
+'I want to be inside you every night...',ham
+'I forgot 2 ask ü all smth.. Theres a card on da present lei... How? Ü all want 2 write smth or sign on it?',ham
+'Hmm. Shall i bring a bottle of wine to keep us amused? Just joking! Ill still bring a bottle. Red or white? See you tomorrow',ham
+'Sorry i cant take your call right now. It so happens that there r 2waxsto do wat you want. She can come and ill get her medical insurance. And shell be able to deliver and have basic care. Im currently shopping for the right medical insurance for her. So just give me til friday morning. Thats when i.ll see the major person that can guide me to the right insurance.',ham
+'I was just callin to say hi. Take care bruv!',ham
+'Glad it went well :) come over at 11 then well have plenty of time before claire goes to work.',ham
+'Pls go there today  &lt;#&gt; . I dont want any excuses',ham
+'Ryder unsold.now gibbs.',ham
+'Dont fret. Ill buy the ovulation test strips and send them to you. You wont get them til like march. Can you send me your postal address.ull be alright.Okay.',ham
+'Double eviction this week - Spiral and Michael and good riddance to them!',ham
+'Crazy ar hes married. Ü like gd looking guys not me. My frens like say hes korean leonas fave but i dun thk he is. Aft some thinking mayb most prob ill go.',ham
+'Send me your id and password',ham
+'Aight no rush, Ill ask jay',ham
+'Yup next stop.',ham
+'Thats significant but dont worry.',ham
+'I though we shd go out n have some fun so bar in town or something – sound ok?',ham
+'The gas station is like a block away from my house, youll drive right by it since armenia ends at swann and you have to take howard',ham
+'How come i din c ü... Yup i cut my hair...',ham
+'No youll just get a headache trying to figure it out. U can trust me to do the math. I promise. O:-)',ham
+'No da. . Vijay going to talk in jaya tv',ham
+'Are you still playing with gautham?',ham
+'HMM yeah if your not too grooved out! And im looking forward to my pound special :)',ham
+'Stupid.its not possible',ham
+' gonna let me know cos comes bak from holiday that day.  is coming. Dont4get2text me  number.',ham
+'Yes. Last  practice',ham
+'aathi..where are you dear..',ham
+'Lol ok ill try to send. Be warned Sprint is dead slow. Youll prolly get it tomorrow',ham
+'Im going 4 lunch now wif my family then aft dat i go str 2 orchard lor.',ham
+'Where r we meeting?',ham
+' says that hes quitting at least5times a day so i wudnt take much notice of that. Nah, she didnt mind. Are you gonna see him again? Do you want to come to taunton tonight? U can tell me all about !',ham
+'No problem baby. Is this is a good time to talk? I called and left a message.',ham
+'Mum say we wan to go then go... Then she can shun bian watch da glass exhibition...',ham
+'That is wondarfull song',ham
+'Dont think so. It turns off like randomlly within 5min of opening',ham
+'how are you? I miss you!',ham
+'And how you will do that, princess? :)',ham
+'Sorry, Ill call later',ham
+'Boy you best get yo ass out here quick',ham
+'I lost 4 pounds since my doc visit last week woot woot! Now Im gonna celebrate by stuffing my face!',ham
+'Is it ok if I stay the night here? Xavier has a sleeping bag and Im getting tired',ham
+'say thanks2.',ham
+'NEFT Transaction with reference number  &lt;#&gt;  for Rs. &lt;DECIMAL&gt;  has been credited to the beneficiary account on  &lt;#&gt;  at  &lt;TIME&gt; : &lt;#&gt;',ham
+'They didt play one day last year know even though they have very good team.. Like india.',ham
+'FreeMSG You have been awarded a FREE mini DIGITAL CAMERA, just reply SNAP to collect your prize! (quizclub Opt out? Stop 80122300p/wk SP:RWM Ph:08704050406)',spam
+'How about getting in touch with folks waiting for company? Just txt back your NAME and AGE to opt in! Enjoy the community (150p/SMS)',spam
+'08714712388 between 10am-7pm Cost 10p',spam
+'TheMob>Hit the link to get a premium Pink Panther game, the new no. 1 from Sugababes, a crazy Zebra animation or a badass Hoody wallpaper-all 4 FREE!',spam
+'Loan for any purpose £500 - £75,000. Homeowners + Tenants welcome. Have you been previously refused? We can still help. Call Free 0800 1956669 or text back help',spam
+'You have 1 new message. Please call 08715205273',spam
+'Loans for any purpose even if you have Bad Credit! Tenants Welcome. Call NoWorriesLoans.com on 08717111821',spam
+'09066362231 URGENT! Your mobile No 07xxxxxxxxx won a £2,000 bonus caller prize on 02/06/03! this is the 2nd attempt to reach YOU! call 09066362231 ASAP!',spam
+'You have been specially selected to receive a \"3000 award! Call 08712402050 BEFORE the lines close. Cost 10ppm. 16+. T&Cs apply. AG Promo',spam
+'Gr8 new service - live sex video chat on your mob - see the sexiest dirtiest girls live on ur phone - 4 details text horny to 89070 to cancel send STOP to 89070',spam
+'Last Chance! Claim ur £150 worth of discount vouchers today! Text SHOP to 85023 now! SavaMob, offers mobile! T Cs SavaMob POBOX84, M263UZ. £3.00 Sub. 16',spam
+'YOU HAVE WON! As a valued Vodafone customer our computer has picked YOU to win a £150 prize. To collect is easy. Just call 09061743386',spam
+'Eerie Nokia tones 4u, rply TONE TITLE to 8007 eg TONE DRACULA to 8007 Titles: GHOST, ADDAMSFA, MUNSTERS, EXORCIST, TWILIGHT www.getzed.co.uk POBox36504W45WQ 150p',spam
+'Missed call alert. These numbers called but left no message. 07008009200',spam
+'T-Mobile customer you may now claim your FREE CAMERA PHONE upgrade & a pay & go sim card for your loyalty. Call on 0845 021 3680.Offer ends 28thFeb.T&Cs apply',spam
+'5p 4 alfie Moons Children in need song on ur mob. Tell ur m8s. Txt Tone charity to 8007 for Nokias or Poly charity for polys: zed 08701417012 profit 2 charity.',spam
+'Someone has conacted our dating service and entered your phone because they fancy you!To find out who it is call from landline 09111030116. PoBox12n146tf15',spam
+'2/2 146tf150p',spam
+'BangBabes Ur order is on the way. U SHOULD receive a Service Msg 2 download UR content. If U do not, GoTo wap. bangb. tv on UR mobile internet/service menu',spam
+'URGENT! We are trying to contact U. Todays draw shows that you have won a £800 prize GUARANTEED. Call 09050001808 from land line. Claim M95. Valid12hrs only',spam
+'Want 2 get laid tonight? Want real Dogging locations sent direct 2 ur mob? Join the UKs largest Dogging Network bt Txting GRAVEL to 69888! Nt. ec2a. 31p.msg@150p',spam
+'LORD OF THE RINGS:RETURN OF THE KING in store NOW!REPLY LOTR by 2 June 4 Chance 2 WIN LOTR soundtrack CDs StdTxtRate. Reply STOP to end txts',spam
+'We tried to call you re your reply to our sms for a video mobile 750 mins UNLIMITED TEXT free camcorder Reply or call now 08000930705 Del Thurs',spam
+'Wan2 win a Meet+Greet with Westlife 4 U or a m8? They are currently on what tour? 1)Unbreakable, 2)Untamed, 3)Unkempt. Text 1,2 or 3 to 83049. Cost 50p +std text',spam
+'Free Top ringtone -sub to weekly ringtone-get 1st week free-send SUBPOLY to 81618-?3 per week-stop sms-08718727870',spam
+'SIX chances to win CASH! From 100 to 20,000 pounds txt> CSH11 and send to 87575. Cost 150p/day, 6days, 16+ TsandCs apply Reply HL 4 info',spam
+'Fancy a shag? I do.Interested? sextextuk.com txt XXUK SUZY to 69876. Txts cost 1.50 per msg. TnCs on website. X',spam
+'Free entry in 2 a weekly comp for a chance to win an ipod. Txt POD to 80182 to get entry (std txt rate) T&Cs apply 08452810073 for details 18+',spam
+'Reminder: You have not downloaded the content you have already paid for. Goto http://doit. mymoby. tv/ to collect your content.',spam
+'Get the official ENGLAND poly ringtone or colour flag on yer mobile for tonights game! Text TONE or FLAG to 84199. Optout txt ENG STOP Box39822 W111WX £1.50',spam
+'You are guaranteed the latest Nokia Phone, a 40GB iPod MP3 player or a £500 prize! Txt word: COLLECT to No: 83355! IBHltd LdnW15H 150p/Mtmsgrcvd18+',spam
+'Hope you enjoyed your new content. text stop to 61610 to unsubscribe. help:08712400602450p Provided by tones2you.co.uk',spam
+'URGENT!! Your 4* Costa Del Sol Holiday or £5000 await collection. Call 09050090044 Now toClaim. SAE, TC s, POBox334, Stockport, SK38xh, Cost£1.50/pm, Max10mins',spam
+'Got what it takes 2 take part in the WRC Rally in Oz? U can with Lucozade Energy! Text RALLY LE to 61200 (25p), see packs or lucozade.co.uk/wrc & itcould be u!',spam
+'UpgrdCentre Orange customer, you may now claim your FREE CAMERA PHONE upgrade for your loyalty. Call now on 0207 153 9153. Offer ends 26th July. T&Cs apply. Opt-out available',spam
+'TheMob>Yo yo yo-Here comes a new selection of hot downloads for our members to get for FREE! Just click & open the next link sent to ur fone...',spam
+'Spook up your mob with a Halloween collection of a logo & pic message plus a free eerie tone, txt CARD SPOOK to 8007 zed 08701417012150p per logo/pic',spam
+'PRIVATE! Your 2003 Account Statement for 07973788240 shows 800 un-redeemed S. I. M. points. Call 08715203649 Identifier Code: 40533 Expires 31/10/04',spam
+'PRIVATE! Your 2003 Account Statement for shows 800 un-redeemed S. I. M. points. Call 08719899230 Identifier Code: 41685 Expires 07/11/04',spam
+'Thanks for your ringtone order, ref number K718. Your mobile will be charged £4.50. Should your tone not arrive please call customer services on 09065069120',spam
+'Free 1st week entry 2 TEXTPOD 4 a chance 2 win 40GB iPod or £250 cash every wk. Txt POD to 84128 Ts&Cs www.textpod.net custcare 08712405020.',spam
+'Great News! Call FREEFONE 08006344447 to claim your guaranteed £1000 CASH or £2000 gift. Speak to a live operator NOW!',spam
+'December only! Had your mobile 11mths+? You are entitled to update to the latest colour camera mobile for Free! Call The Mobile Update Co FREE on 08002986906',spam
+'Wanna have a laugh? Try CHIT-CHAT on your mobile now! Logon by txting the word: CHAT and send it to No: 8883 CM PO Box 4217 London W1A 6ZF 16+ 118p/msg rcvd',spam
+'SIX chances to win CASH! From 100 to 20,000 pounds txt> CSH11 and send to 87575. Cost 150p/day, 6days, 16+ TsandCs apply Reply HL 4 info',spam
+'FREE for 1st week! No1 Nokia tone 4 ur mob every week just txt NOKIA to 8007 Get txting and tell ur mates www.getzed.co.uk POBox 36504 W45WQ norm150p/tone 16+',spam
+'FreeMsg Why havent you replied to my text? Im Randy, sexy, female and live local. Luv to hear from u. Netcollex Ltd 08700621170150p per msg reply Stop to end',spam
+'A £400 XMAS REWARD IS WAITING FOR YOU! Our computer has randomly picked you from our loyal mobile customers to receive a £400 reward. Just call 09066380611',spam
+'Congratulations ur awarded 500 of CD vouchers or 125gift guaranteed & Free entry 2 100 wkly draw txt MUSIC to 87066 TnCs www.Ldew.com1win150ppmx3age16',spam
+'Fantasy Football is back on your TV. Go to Sky Gamestar on Sky Active and play £250k Dream Team. Scoring starts on Saturday, so register now!SKY OPT OUT to 88088',spam
+'FREE RINGTONE text FIRST to 87131 for a poly or text GET to 87131 for a true tone! Help? 0845 2814032 16 after 1st free, tones are 3x£150pw to e£nd txt stop',spam
+'500 New Mobiles from 2004, MUST GO! Txt: NOKIA to No: 89545 & collect yours today!From ONLY £1 www.4-tc.biz 2optout 087187262701.50gbp/mtmsg18 TXTAUCTION',spam
+'FREE for 1st week! No1 Nokia tone 4 ur mob every week just txt NOKIA to 87077 Get txting and tell ur mates. zed POBox 36504 W45WQ norm150p/tone 16+',spam
+'Call 09095350301 and send our girls into erotic ecstacy. Just 60p/min. To stop texts call 08712460324 (nat rate)',spam
+'18 days to Euro2004 kickoff! U will be kept informed of all the latest news and results daily. Unsubscribe send GET EURO STOP to 83222.',spam
+'Phony £350 award - Todays Voda numbers ending XXXX are selected to receive a £350 award. If you have a match please call 08712300220 quoting claim code 3100 standard rates app',spam
+'8007 FREE for 1st week! No1 Nokia tone 4 ur mob every week just txt NOKIA to 8007 Get txting and tell ur mates www.getzed.co.uk POBox 36504 W4 5WQ norm 150p/tone 16+',spam
+'PRIVATE! Your 2003 Account Statement for shows 800 un-redeemed S. I. M. points. Call 08718738002 Identifier Code: 48922 Expires 21/11/04',spam
+'Orange customer, you may now claim your FREE CAMERA PHONE upgrade for your loyalty. Call now on 0207 153 9996. Offer ends 14thMarch. T&Cs apply. Opt-out availa',spam
+'You have been specially selected to receive a 2000 pound award! Call 08712402050 BEFORE the lines close. Cost 10ppm. 16+. T&Cs apply. AG Promo',spam
+'FREE camera phones with linerental from 4.49/month with 750 cross ntwk mins. 1/2 price txt bundle deals also avble. Call 08001950382 or call2optout/J MF',spam
+'For sale - arsenal dartboard. Good condition but no doubles or trebles!',spam
+'Goal! Arsenal 4 (Henry, 7 v Liverpool 2 Henry scores with a simple shot from 6 yards from a pass by Bergkamp to give Arsenal a 2 goal margin after 78 mins.',spam
+'Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send CASH to 86688 only 150p/msg. CC: 08708800282 HG/Suite342/2Lands Row/W1J6HL',spam
+'Freemsg: 1-month unlimited free calls! Activate SmartCall Txt: CALL to No: 68866. Subscriptn3gbp/wk unlimited calls Help: 08448714184 Stop?txt stop landlineonly',spam
+'Bears Pic Nick, and Tom, Pete and ... Dick. In fact, all types try gay chat with photo upload call 08718730666 (10p/min). 2 stop texts call 08712460324',spam
+'Bored housewives! Chat n date now! 0871750.77.11! BT-national rate 10p/min only from landlines!',spam
+'As a valued customer, I am pleased to advise you that following recent review of your Mob No. you are awarded with a £1500 Bonus Prize, call 09066364589',spam
+'Youll not rcv any more msgs from the chat svc. For FREE Hardcore services text GO to: 69988 If u get nothing u must Age Verify with yr network & try again',spam
+'PRIVATE! Your 2004 Account Statement for 07742676969 shows 786 unredeemed Bonus Points. To claim call 08719180248 Identifier Code: 45239 Expires',spam
+'Dear Subscriber ur draw 4 £100 gift voucher will b entered on receipt of a correct ans. When was Elvis Presleys Birthday? TXT answer to 80062',spam
+'URGENT, IMPORTANT INFORMATION FOR O2 USER. TODAY IS YOUR LUCKY DAY! 2 FIND OUT WHY LOG ONTO HTTP://WWW.URAWINNER.COM THERE IS A FANTASTIC SURPRISE AWAITING FOR YOU',spam
+'85233 FREE>Ringtone!Reply REAL',spam
+'Hi 07734396839 IBH Customer Loyalty Offer: The NEW NOKIA6600 Mobile from ONLY £10 at TXTAUCTION!Txt word:START to No:81151 & get Yours Now!4T&',spam
+'Last chance 2 claim ur £150 worth of discount vouchers-Text YES to 85023 now!SavaMob-member offers mobile T Cs 08717898035. £3.00 Sub. 16 . Remove txt X or STOP',spam
+'December only! Had your mobile 11mths+? You are entitled to update to the latest colour camera mobile for Free! Call The Mobile Update Co FREE on 08002986906',spam
+'URGENT! Your mobile No 077xxx WON a £2,000 Bonus Caller Prize on 02/06/03! This is the 2nd attempt to reach YOU! Call 09066362206 ASAP! BOX97N7QP, 150ppm',spam
+'CALL 09090900040 & LISTEN TO EXTREME DIRTY LIVE CHAT GOING ON IN THE OFFICE RIGHT NOW TOTAL PRIVACY NO ONE KNOWS YOUR [sic] LISTENING 60P MIN 24/7MP 0870753331018+',spam
+'Sunshine Quiz Wkly Q! Win a top Sony DVD player if u know which country the Algarve is in? Txt ansr to 82277. £1.50 SP:Tyrone',spam
+'wamma get laid?want real doggin locations sent direct to your mobile? join the UKs largest dogging network. txt dogs to 69696 now!nyt. ec2a. 3lp £1.50/msg.',spam
+'<Forwarded from 21870000>Hi - this is your Mailbox Messaging SMS alert. You have 4 messages. You have 21 matches. Please call back on 09056242159 to retrieve your messages and matches',spam
+'Are you unique enough? Find out from 30th August. www.areyouunique.co.uk',spam
+'SMS SERVICES For your inclusive text credits pls gotto www.comuk.net login 3qxj9 unsubscribe with STOP no extra charge help 08702840625 comuk.220cm2 9AE',spam
+'As a Registered Subscriber yr draw 4 a £100 gift voucher will b entered on receipt of a correct ans. When are the next olympics. Txt ans to 80062',spam
+'Hi. Customer Loyalty Offer:The NEW Nokia6650 Mobile from ONLY £10 at TXTAUCTION! Txt word: START to No: 81151 & get yours Now! 4T&Ctxt TC 150p/MTmsg',spam
+'Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/msg. CC: 08718720201 PO BOX 114/14 TCR/W1',spam
+'TheMob> Check out our newest selection of content, Games, Tones, Gossip, babes and sport, Keep your mobile fit and funky text WAP to 82468',spam
+'Double Mins & Double Txt & 1/2 price Linerental on Latest Orange Bluetooth mobiles. Call MobileUpd8 for the very latest offers. 08000839402 or call2optout/LF56',spam
+'Urgent! call 09061749602 from Landline. Your complimentary 4* Tenerife Holiday or £10,000 cash await collection SAE T&Cs BOX 528 HP20 1YF 150ppm 18+',spam
+'Not heard from U4 a while. Call 4 rude chat private line 01223585334 to cum. Wan 2C pics of me gettin shagged then text PIX to 8552. 2End send STOP 8552 SAM xxx',spam
+'Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send COLLECT to 83600 only 150p/msg. CC: 08718720201 PO BOX 114/14 TCR/W1',spam
+'Our brand new mobile music service is now live. The free music player will arrive shortly. Just install on your phone to browse content from the top artists.',spam
+'Dear Uve been invited to XCHAT. This is our final attempt to contact u! Txt CHAT to 86688 150p/MsgrcvdHG/Suite342/2Lands/Row/W1J6HL LDN 18 yrs',spam
+'Congrats! 2 mobile 3G Videophones R yours. call 09063458130 now! videochat wid your mates, play java games, Dload polyPH music, noline rentl.',spam
+'Guess who am I?This is the first time I created a web page WWW.ASJESUS.COM read all I wrote. Im waiting for your opinions. I want to be your friend 1/1',spam
+'Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/msg. CC 08718720201 HG/Suite342/2Lands Row/W1J6HL',spam
+'tddnewsletter@emc1.co.uk (More games from TheDailyDraw) Dear Helen, Dozens of Free Games - with great prizesWith..',spam
+'Here is your discount code RP176781. To stop further messages reply stop. www.regalportfolio.co.uk. Customer Services 08717205546',spam
+'Hi, the SEXYCHAT girls are waiting for you to text them. Text now for a great night chatting. send STOP to stop this service',spam
+'Would you like to see my XXX pics they are so hot they were nearly banned in the uk!',spam
+'U can WIN £100 of Music Gift Vouchers every week starting NOW Txt the word DRAW to 87066 TsCs www.Idew.com SkillGame, 1Winaweek, age16. 150ppermessSubscription',spam
+'it to 80488. Your 500 free text messages are valid until 31 December 2005.',spam
+'Had your mobile 11 months or more? U R entitled to Update to the latest colour mobiles with camera for Free! Call The Mobile Update Co FREE on 08002986030',spam
+'Todays Voda numbers ending 7548 are selected to receive a $350 award. If you have a match please call 08712300220 quoting claim code 4041 standard rates app',spam
+'1st wk FREE! Gr8 tones str8 2 u each wk. Txt NOKIA ON to 8007 for Classic Nokia tones or HIT ON to 8007 for Polys. Nokia/150p Poly/200p 16+',spam
+'Please call our customer service representative on FREEPHONE 0808 145 4742 between 9am-11pm as you have WON a guaranteed £1000 cash or £5000 prize!',spam
+'You will recieve your tone within the next 24hrs. For Terms and conditions please see Channel U Teletext Pg 750',spam
+'More people are dogging in your area now. Call 09090204448 and join like minded guys. Why not arrange 1 yourself. Theres 1 this evening. A£1.50 minAPN LS278BB',spam
+'Do you want a New Nokia 3510i Colour Phone Delivered Tomorrow? With 200 FREE minutes to any mobile + 100 FREE text + FREE camcorder Reply or Call 8000930705',spam
+'FREE2DAY sexy St Georges Day pic of Jordan!Txt PIC to 89080 dont miss out, then every wk a saucy celeb!4 more pics c PocketBabe.co.uk 0870241182716 £3/wk',spam
+'Text PASS to 69669 to collect your polyphonic ringtones. Normal gprs charges apply only. Enjoy your tones',spam
+'88800 and 89034 are premium phone services call 08718711108',spam
+'Urgent! call 09066350750 from your landline. Your complimentary 4* Ibiza Holiday or 10,000 cash await collection SAE T&Cs PO BOX 434 SK3 8WP 150 ppm 18+',spam
+'Block Breaker now comes in deluxe format with new features and great graphics from T-Mobile. Buy for just £5 by replying GET BBDELUXE and take the challenge',spam
+'Urgent Urgent! We have 800 FREE flights to Europe to give away, call B4 10th Sept & take a friend 4 FREE. Call now to claim on 09050000555. BA128NNFWFLY150ppm',spam
+'Congratulations ur awarded 500 of CD vouchers or 125gift guaranteed & Free entry 2 100 wkly draw txt MUSIC to 87066 TnCs www.Ldew.com1win150ppmx3age16',spam
+'Call Germany for only 1 pence per minute! Call from a fixed line via access number 0844 861 85 85. No prepayment. Direct access! www.telediscount.co.uk',spam
+'Customer service announcement. We recently tried to make a delivery to you but were unable to do so, please call 07090298926 to re-schedule. Ref:9307622',spam
+'Camera - You are awarded a SiPix Digital Camera! call 09061221066 fromm landline. Delivery within 28 days.',spam
+'Get a FREE mobile video player FREE movie. To collect text GO to 89105. Its free! Extra films can be ordered ts and cs apply. 18 yrs only',spam
+'Congrats! Nokia 3650 video camera phone is your Call 09066382422 Calls cost 150ppm Ave call 3mins vary from mobiles 16+ Close 300603 post BCM4284 Ldn WC1N3XX',spam
+'URGENT! Your mobile No 07xxxxxxxxx won a £2,000 bonus caller prize on 02/06/03! this is the 2nd attempt to reach YOU! call 09066362231 ASAP! BOX97N7QP, 150PPM',spam
+'Hey I am really horny want to chat or see me naked text hot to 69698 text charged at 150pm to unsubscribe text stop 69698',spam
+'WIN a year supply of CDs 4 a store of ur choice worth £500 & enter our £100 Weekly draw txt MUSIC to 87066 Ts&Cs www.Ldew.com.subs16+1win150ppmx3',spam
+'FreeMsg>FAV XMAS TONES!Reply REAL',spam
+'You have WON a guaranteed £1000 cash or a £2000 prize. To claim yr prize call our customer service representative on 08714712379 between 10am-7pm Cost 10p',spam
+'We tried to contact you re your reply to our offer of a Video Phone 750 anytime any network mins Half Price Line Rental Camcorder Reply or call 08000930705',spam
+'URGENT! Your Mobile number has been awarded with a £2000 prize GUARANTEED. Call 09061790126 from land line. Claim 3030. Valid 12hrs only 150ppm',spam
+'SMS SERVICES. for your inclusive text credits, pls goto www.comuk.net login= 3qxj9 unsubscribe with STOP, no extra charge. help 08702840625.COMUK. 220-CM2 9AE',spam
+'URGENT! Your mobile was awarded a £1,500 Bonus Caller Prize on 27/6/03. Our final attempt 2 contact U! Call 08714714011',spam
+'This is the 2nd time we have tried 2 contact u. U have won the 750 Pound prize. 2 claim is easy, call 08712101358 NOW! Only 10p per min. BT-national-rate',spam
+'100 dating service cal;l 09064012103 box334sk38ch',spam
+'You have an important customer service announcement. Call FREEPHONE 0800 542 0825 now!',spam
+'Valentines Day Special! Win over £1000 in our quiz and take your partner on the trip of a lifetime! Send GO to 83600 now. 150p/msg rcvd. CustCare:08718720201.',spam
+'\"URGENT! This is the 2nd attempt to contact U!U have WON £1000CALL 09071512432 b4 300603t&csBCM4235WC1N3XX.callcost150ppmmobilesvary. max£7. 50\"',spam
+'Loan for any purpose £500 - £75,000. Homeowners + Tenants welcome. Have you been previously refused? We can still help. Call Free 0800 1956669 or text back help',spam
+'Please call our customer service representative on FREEPHONE 0808 145 4742 between 9am-11pm as you have WON a guaranteed £1000 cash or £5000 prize!',spam
+'Youve won tkts to the EURO2004 CUP FINAL or £800 CASH, to collect CALL 09058099801 b4190604, POBOX 7876150ppm',spam
+'To review and KEEP the fantastic Nokia N-Gage game deck with Club Nokia, go 2 www.cnupdates.com/newsletter. unsubscribe from alerts reply with the word OUT',spam
+'WELL DONE! Your 4* Costa Del Sol Holiday or £5000 await collection. Call 09050090044 Now toClaim. SAE, TCs, POBox334, Stockport, SK38xh, Cost£1.50/pm, Max10mins',spam
+'sports fans - get the latest sports news str* 2 ur mobile 1 wk FREE PLUS a FREE TONE Txt SPORT ON to 8007 www.getzed.co.uk 0870141701216+ norm 4txt/120p',spam
+'Dont forget you can place as many FREE Requests with 1stchoice.co.uk as you wish. For more Information call 08707808226.',spam
+'HOT LIVE FANTASIES call now 08707509020 Just 20p per min NTT Ltd, PO Box 1327 Croydon CR9 5WB 0870 is a national rate call',spam
+'Rock yr chik. Get 100s of filthy films &XXX pics on yr phone now. rply FILTH to 69669. Saristar Ltd, E14 9YT 08701752560. 450p per 5 days. Stop2 cancel',spam
+'For your chance to WIN a FREE Bluetooth Headset then simply reply back with \"ADP\"',spam
+'Text82228>> Get more ringtones, logos and games from www.txt82228.com. Questions: info@txt82228.co.uk',spam
+'all the lastest from Stereophonics, Marley, Dizzee Racal, Libertines and The Strokes! Win Nookii games with Flirt!! Click TheMob WAP Bookmark or text WAP to 82468',spam
+'Customer service announcement. We recently tried to make a delivery to you but were unable to do so, please call 07099833605 to re-schedule. Ref:9280114',spam
+'Do you ever notice that when youre driving, anyone going slower than you is an idiot and everyone driving faster than you is a maniac?',spam
+'Someone U know has asked our dating service 2 contact you! Cant Guess who? CALL 09058091854 NOW all will be revealed. PO BOX385 M6 6WU',spam
