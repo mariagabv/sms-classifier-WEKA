@@ -1,1 +1,2 @@
 "# sms-classifier-WEKA" 
+This repository contains the implementation and results of the final project for the course "Introduction to Machine Learning" at the University of the Basque Country. The study was conducted in WEKA and investigates preprocessing methods to optimize machine learning algorithms for SMS spam detection. The research explores 24 preprocessing scenarios and evaluates five algorithms, including Multinomial Naive Bayes, LibLinear, Random Forest, and Random Tree. The SMS Spam Collection dataset was used for experimentation.
